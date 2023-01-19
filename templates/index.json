@@ -451,6 +451,71 @@
         "padding_top": 0,
         "padding_bottom": 0
       }
+    },
+    "1506d197-6825-4802-bd80-7fe6a8ece16d": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "{% style %}\n.underline{\n background-color: #51e0dc;\n width: 40%;\n height: 3px;\n \n}\n{% endstyle %}\n\n<div class=\"underline page-width\">",
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "416fef2b-91f8-4f60-8f2f-5b4a4f04a25e": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--17670463258944__416fef2b-91f8-4f60-8f2f-5b4a4f04a25e-16741154592916874e-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/AERO_LOGO_with_Chemworld.png",
+            "title": "Air Scenting Subscriptions",
+            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.<\/p>",
+            "link_label": "Learn more",
+            "link": ""
+          }
+        },
+        "template--17670463258944__416fef2b-91f8-4f60-8f2f-5b4a4f04a25e-16741154592916874e-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/AERO_LOGO_with_Chemworld.png",
+            "title": "Air Scenting Machine and Supplies",
+            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.<\/p>",
+            "link_label": "Learn more",
+            "link": ""
+          }
+        },
+        "template--17670463258944__416fef2b-91f8-4f60-8f2f-5b4a4f04a25e-16741154592916874e-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/AERO_LOGO_with_Chemworld.png",
+            "title": "Property Disinfection",
+            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.<\/p>",
+            "link_label": "Learn more",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17670463258944__416fef2b-91f8-4f60-8f2f-5b4a4f04a25e-16741154592916874e-0",
+        "template--17670463258944__416fef2b-91f8-4f60-8f2f-5b4a4f04a25e-16741154592916874e-1",
+        "template--17670463258944__416fef2b-91f8-4f60-8f2f-5b4a4f04a25e-16741154592916874e-2"
+      ],
+      "settings": {
+        "title": "Our Services",
+        "heading_size": "h1",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -467,6 +532,8 @@
     "108ae4b6-3b30-4154-bb6d-bad0d19d2e33",
     "eda92a2c-8134-4f70-bde5-5f76cc8d9c59",
     "ad97e541-d967-42e9-b970-9114379f44a5",
-    "950ccf57-f062-47bb-8cfd-8b11cc6278ce"
+    "950ccf57-f062-47bb-8cfd-8b11cc6278ce",
+    "1506d197-6825-4802-bd80-7fe6a8ece16d",
+    "416fef2b-91f8-4f60-8f2f-5b4a4f04a25e"
   ]
 }
