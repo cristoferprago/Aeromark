@@ -1,1 +1,472 @@
-{"sections":{"6ca1ad89-8d59-492a-a59f-581df8367a19":{"type":"slideshow","blocks":{"template--17552601776448__6ca1ad89-8d59-492a-a59f-581df8367a19-1673418636d84c4d10-0":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/Banner1.2.gif","heading":"","heading_size":"h2","subheading":"","button_label":"","link":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"background-1","text_alignment_mobile":"center"}},"template--17552601776448__6ca1ad89-8d59-492a-a59f-581df8367a19-1673418636d84c4d10-1":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/Banner1.gif","heading":"","heading_size":"h1","subheading":"","button_label":"","link":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"background-1","text_alignment_mobile":"center"}}},"block_order":["template--17552601776448__6ca1ad89-8d59-492a-a59f-581df8367a19-1673418636d84c4d10-0","template--17552601776448__6ca1ad89-8d59-492a-a59f-581df8367a19-1673418636d84c4d10-1"],"settings":{"layout":"grid","slide_height":"adapt_image","slider_visual":"dots","auto_rotate":false,"change_slides_speed":5,"show_text_below":true,"accessibility_info":""}},"d079a440-c0ae-4e71-8457-f53b3208222f":{"type":"rich-text","blocks":{"template--17552601776448__d079a440-c0ae-4e71-8457-f53b3208222f-1673420737369da84f-0":{"type":"heading","settings":{"heading":"<p>Air-scenting solutions for malls, hotel, and establishments<\/p>","heading_size":"h1"}},"template--17552601776448__d079a440-c0ae-4e71-8457-f53b3208222f-1673420737369da84f-2":{"type":"button","settings":{"button_label":"Learn more >","button_link":"shopify:\/\/pages\/about","button_style_secondary":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["template--17552601776448__d079a440-c0ae-4e71-8457-f53b3208222f-1673420737369da84f-0","template--17552601776448__d079a440-c0ae-4e71-8457-f53b3208222f-1673420737369da84f-2"],"settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"background-1","full_width":true,"padding_top":52,"padding_bottom":52}},"ee3ec41b-0009-4622-9c0d-b045261d4fd4":{"type":"custom-liquid","settings":{"custom_liquid":"{% style %}\n.underline{\n background-color: #51e0dc;\n width: 40%;\n height: 3px;\n \n}\n{% endstyle %}\n\n<div class=\"underline page-width\">\n\n<\/div>","color_scheme":"background-1","padding_top":0,"padding_bottom":0}},"6a47f695-8319-4b8a-9b90-8fadb8443d24":{"type":"image-with-text","blocks":{"template--17552601776448__6a47f695-8319-4b8a-9b90-8fadb8443d24-16735799419ef76e69-0":{"type":"heading","settings":{"heading":"Aeromark BT120","heading_size":"h1"}},"template--17552601776448__6a47f695-8319-4b8a-9b90-8fadb8443d24-16735799419ef76e69-1":{"type":"text","settings":{"text":"<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.<\/p>","text_style":"body"}},"template--17552601776448__6a47f695-8319-4b8a-9b90-8fadb8443d24-16735799419ef76e69-2":{"type":"button","settings":{"button_label":"Buy Now","button_link":"shopify:\/\/products\/aeromark-bt120"}}},"block_order":["template--17552601776448__6a47f695-8319-4b8a-9b90-8fadb8443d24-16735799419ef76e69-0","template--17552601776448__6a47f695-8319-4b8a-9b90-8fadb8443d24-16735799419ef76e69-1","template--17552601776448__6a47f695-8319-4b8a-9b90-8fadb8443d24-16735799419ef76e69-2"],"settings":{"image":"shopify:\/\/shop_images\/BT120-Front.jpg","height":"adapt","desktop_image_width":"medium","layout":"text_first","desktop_content_position":"middle","desktop_content_alignment":"center","content_layout":"no-overlap","color_scheme":"background-1","mobile_content_alignment":"left","padding_top":36,"padding_bottom":36}},"64547df2-a3c8-4594-b92a-b15b5f285891":{"type":"image-with-text","blocks":{"template--17552601776448__64547df2-a3c8-4594-b92a-b15b5f285891-16735805157342fd16-0":{"type":"heading","settings":{"heading":"Aeromark 2000","heading_size":"h1"}},"template--17552601776448__64547df2-a3c8-4594-b92a-b15b5f285891-16735805157342fd16-1":{"type":"text","settings":{"text":"<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.<\/p>","text_style":"body"}},"template--17552601776448__64547df2-a3c8-4594-b92a-b15b5f285891-16735805157342fd16-2":{"type":"button","settings":{"button_label":"Buy Now","button_link":"shopify:\/\/products\/aeromark-2000"}}},"block_order":["template--17552601776448__64547df2-a3c8-4594-b92a-b15b5f285891-16735805157342fd16-0","template--17552601776448__64547df2-a3c8-4594-b92a-b15b5f285891-16735805157342fd16-1","template--17552601776448__64547df2-a3c8-4594-b92a-b15b5f285891-16735805157342fd16-2"],"settings":{"image":"shopify:\/\/shop_images\/2000-Front.png","height":"adapt","desktop_image_width":"medium","layout":"text_first","desktop_content_position":"middle","desktop_content_alignment":"center","content_layout":"no-overlap","color_scheme":"background-1","mobile_content_alignment":"left","padding_top":36,"padding_bottom":36}},"3abee7b6-65d7-4138-ad24-7877c3811260":{"type":"image-with-text","blocks":{"template--17552601776448__3abee7b6-65d7-4138-ad24-7877c3811260-16735807650ac4e5e7-0":{"type":"heading","settings":{"heading":"Aeromark 5000","heading_size":"h1"}},"template--17552601776448__3abee7b6-65d7-4138-ad24-7877c3811260-16735807650ac4e5e7-1":{"type":"text","settings":{"text":"<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>","text_style":"body"}},"template--17552601776448__3abee7b6-65d7-4138-ad24-7877c3811260-16735807650ac4e5e7-2":{"type":"button","settings":{"button_label":"Buy Now","button_link":"shopify:\/\/products\/aeromark-5000"}}},"block_order":["template--17552601776448__3abee7b6-65d7-4138-ad24-7877c3811260-16735807650ac4e5e7-0","template--17552601776448__3abee7b6-65d7-4138-ad24-7877c3811260-16735807650ac4e5e7-1","template--17552601776448__3abee7b6-65d7-4138-ad24-7877c3811260-16735807650ac4e5e7-2"],"settings":{"image":"shopify:\/\/shop_images\/5000-Front.jpg","height":"adapt","desktop_image_width":"medium","layout":"text_first","desktop_content_position":"middle","desktop_content_alignment":"center","content_layout":"no-overlap","color_scheme":"background-1","mobile_content_alignment":"left","padding_top":36,"padding_bottom":36}},"e9a5ab95-3faa-4eff-946d-3057bf5391a1":{"type":"custom-liquid","settings":{"custom_liquid":"{% style %}\n.underline{\n background-color: #51e0dc;\n width: 40%;\n height: 3px;\n \n}\n{% endstyle %}\n\n<div class=\"underline page-width\">\n\n<\/div>","color_scheme":"background-1","padding_top":0,"padding_bottom":0}},"b124edd4-5305-436a-a9a8-84059e29a9b7":{"type":"rich-text","blocks":{"template--17552601776448__b124edd4-5305-436a-a9a8-84059e29a9b7-1673491649bbac914e-0":{"type":"heading","settings":{"heading":"<p>Who we are<\/p>","heading_size":"h1"}}},"block_order":["template--17552601776448__b124edd4-5305-436a-a9a8-84059e29a9b7-1673491649bbac914e-0"],"settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"background-1","full_width":true,"padding_top":40,"padding_bottom":0}},"88c5c845-67fa-4d31-9926-06aeec92bc6a":{"type":"image-with-text","blocks":{"template--17552601776448__88c5c845-67fa-4d31-9926-06aeec92bc6a-1673490231c5cb2582-1":{"type":"text","settings":{"text":"<p>Chemworld Marketing Corp. started as a distribution company in 1985. Founded by multi-awarded chemist Fred C. Reyes, Chemworld initially focused on the distribution of specialty chemicals in the personal care and fppd industries. Chemworld quickly established its reputation as a reliable and trusted source of specialty ingredients, fragrances and flavours with major multinational and local companies in the Philippines.<br\/><br\/>Through the years, Chemwrld has proven to be a pioneering innovator, constantly introducing new and exciting product concpets to the Philippine industries. Its expesive library of formularies includes the latest breakthroughs in product developemnt in Europe, USA and Asia.<br\/><br\/>A major milestone in Chemworld's history is the opening of the first Chemworld Fragrance Factory store in 2004. It's a one-stop shop for perfumery supplies, an offshoot of its advocacy to provide livelihood opportunity to small entrepreneurs. Aside from a broad selection of perfume bottles, hundreds of the most popular fragrance oils and essential oils are available in its 20 branches (and counting) nationwide.<br\/><br\/>With its expertise and experience in the Philippine fragrance market through Chemworld Fragrance Factory, Chemworld's expansion to the air scenting business came naturally. Chemworld started offergin Aeromark air scenting systems to hotels, malls, hospitals, and places of worship in 2015.<\/p>","text_style":"body"}}},"block_order":["template--17552601776448__88c5c845-67fa-4d31-9926-06aeec92bc6a-1673490231c5cb2582-1"],"settings":{"image":"shopify:\/\/shop_images\/AERO_LOGO_with_Chemworld.png","height":"adapt","desktop_image_width":"small","layout":"image_first","desktop_content_position":"middle","desktop_content_alignment":"left","content_layout":"overlap","color_scheme":"background-1","mobile_content_alignment":"left","padding_top":0,"padding_bottom":36}},"50da3436-a633-4c6d-a908-5a4f9274f80e":{"type":"custom-liquid","settings":{"custom_liquid":"{% style %}\n.underline{\n background-color: #51e0dc;\n width: 40%;\n height: 3px;\n \n}\n{% endstyle %}\n\n<div class=\"underline page-width\">\n\n<\/div>","color_scheme":"background-1","padding_top":0,"padding_bottom":0}},"108ae4b6-3b30-4154-bb6d-bad0d19d2e33":{"type":"multicolumn","blocks":{"template--17552601776448__108ae4b6-3b30-4154-bb6d-bad0d19d2e33-1673490232fa5a47c9-0":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/AERO_LOGO_with_Chemworld.png","title":"Client Logo 1","text":"","link_label":"","link":""}},"template--17552601776448__108ae4b6-3b30-4154-bb6d-bad0d19d2e33-1673490232fa5a47c9-1":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/AERO_LOGO_with_Chemworld.png","title":"Client Logo  2","text":"","link_label":"","link":""}},"template--17552601776448__108ae4b6-3b30-4154-bb6d-bad0d19d2e33-1673490232fa5a47c9-2":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/AERO_LOGO_with_Chemworld.png","title":"Client Logo  3","text":"","link_label":"","link":""}},"a7252164-6628-4074-a561-42ea66673d0e":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/AERO_LOGO_with_Chemworld.png","title":"Client Logo 4","text":"","link_label":"","link":""}}},"block_order":["template--17552601776448__108ae4b6-3b30-4154-bb6d-bad0d19d2e33-1673490232fa5a47c9-0","template--17552601776448__108ae4b6-3b30-4154-bb6d-bad0d19d2e33-1673490232fa5a47c9-1","template--17552601776448__108ae4b6-3b30-4154-bb6d-bad0d19d2e33-1673490232fa5a47c9-2","a7252164-6628-4074-a561-42ea66673d0e"],"settings":{"title":"Our Clients","heading_size":"h1","image_width":"full","image_ratio":"adapt","columns_desktop":4,"column_alignment":"left","background_style":"primary","button_label":"","button_link":"","color_scheme":"background-1","columns_mobile":"1","swipe_on_mobile":false,"padding_top":36,"padding_bottom":8}},"eda92a2c-8134-4f70-bde5-5f76cc8d9c59":{"type":"multicolumn","blocks":{"template--17552601776448__eda92a2c-8134-4f70-bde5-5f76cc8d9c59-1673493269f366a9dd-0":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/AERO_LOGO_with_Chemworld.png","title":"Client Logo 5","text":"","link_label":"","link":""}},"template--17552601776448__eda92a2c-8134-4f70-bde5-5f76cc8d9c59-1673493269f366a9dd-1":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/AERO_LOGO_with_Chemworld.png","title":"Client Logo 6","text":"","link_label":"","link":""}},"template--17552601776448__eda92a2c-8134-4f70-bde5-5f76cc8d9c59-1673493269f366a9dd-2":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/AERO_LOGO_with_Chemworld.png","title":"Client Logo 7","text":"","link_label":"","link":""}},"5e541dc6-b412-4d55-b8dd-bdd665bc022c":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/AERO_LOGO_with_Chemworld.png","title":"Client Logo 8","text":"","link_label":"","link":""}}},"block_order":["template--17552601776448__eda92a2c-8134-4f70-bde5-5f76cc8d9c59-1673493269f366a9dd-0","template--17552601776448__eda92a2c-8134-4f70-bde5-5f76cc8d9c59-1673493269f366a9dd-1","template--17552601776448__eda92a2c-8134-4f70-bde5-5f76cc8d9c59-1673493269f366a9dd-2","5e541dc6-b412-4d55-b8dd-bdd665bc022c"],"settings":{"title":"","heading_size":"h1","image_width":"full","image_ratio":"adapt","columns_desktop":4,"column_alignment":"left","background_style":"primary","button_label":"","button_link":"","color_scheme":"background-1","columns_mobile":"1","swipe_on_mobile":false,"padding_top":0,"padding_bottom":36}},"ad97e541-d967-42e9-b970-9114379f44a5":{"type":"custom-liquid","disabled":true,"settings":{"custom_liquid":"{% style %}\n.underline{\n background-color: #51e0dc;\n width: 40%;\n height: 3px;\n \n}\n{% endstyle %}\n\n<div class=\"underline page-width\">\n\n<\/div>","color_scheme":"background-1","padding_top":0,"padding_bottom":0}},"950ccf57-f062-47bb-8cfd-8b11cc6278ce":{"type":"custom-liquid","settings":{"custom_liquid":"{% style %}\n.image-with-text__text.rte.body p{\n  text-align: justify;\n}\n{% endstyle %}","color_scheme":"background-1","padding_top":0,"padding_bottom":0}}},"order":["6ca1ad89-8d59-492a-a59f-581df8367a19","d079a440-c0ae-4e71-8457-f53b3208222f","ee3ec41b-0009-4622-9c0d-b045261d4fd4","6a47f695-8319-4b8a-9b90-8fadb8443d24","64547df2-a3c8-4594-b92a-b15b5f285891","3abee7b6-65d7-4138-ad24-7877c3811260","e9a5ab95-3faa-4eff-946d-3057bf5391a1","b124edd4-5305-436a-a9a8-84059e29a9b7","88c5c845-67fa-4d31-9926-06aeec92bc6a","50da3436-a633-4c6d-a908-5a4f9274f80e","108ae4b6-3b30-4154-bb6d-bad0d19d2e33","eda92a2c-8134-4f70-bde5-5f76cc8d9c59","ad97e541-d967-42e9-b970-9114379f44a5","950ccf57-f062-47bb-8cfd-8b11cc6278ce"]}
+{
+  "sections": {
+    "6ca1ad89-8d59-492a-a59f-581df8367a19": {
+      "type": "slideshow",
+      "blocks": {
+        "template--17552601776448__6ca1ad89-8d59-492a-a59f-581df8367a19-1673418636d84c4d10-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Banner1.2.gif",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "template--17552601776448__6ca1ad89-8d59-492a-a59f-581df8367a19-1673418636d84c4d10-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Banner1.gif",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--17552601776448__6ca1ad89-8d59-492a-a59f-581df8367a19-1673418636d84c4d10-0",
+        "template--17552601776448__6ca1ad89-8d59-492a-a59f-581df8367a19-1673418636d84c4d10-1"
+      ],
+      "settings": {
+        "layout": "grid",
+        "slide_height": "adapt_image",
+        "slider_visual": "dots",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "show_text_below": true,
+        "accessibility_info": ""
+      }
+    },
+    "d079a440-c0ae-4e71-8457-f53b3208222f": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17552601776448__d079a440-c0ae-4e71-8457-f53b3208222f-1673420737369da84f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Air-scenting solutions for malls, hotel, and establishments<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--17552601776448__d079a440-c0ae-4e71-8457-f53b3208222f-1673420737369da84f-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Learn more >",
+            "button_link": "shopify:\/\/pages\/about",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17552601776448__d079a440-c0ae-4e71-8457-f53b3208222f-1673420737369da84f-0",
+        "template--17552601776448__d079a440-c0ae-4e71-8457-f53b3208222f-1673420737369da84f-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 52,
+        "padding_bottom": 52
+      }
+    },
+    "ee3ec41b-0009-4622-9c0d-b045261d4fd4": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "{% style %}\n.underline{\n background-color: #51e0dc;\n width: 40%;\n height: 3px;\n \n}\n{% endstyle %}\n\n<div class=\"underline page-width\">\n\n<\/div>",
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "6a47f695-8319-4b8a-9b90-8fadb8443d24": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--17552601776448__6a47f695-8319-4b8a-9b90-8fadb8443d24-16735799419ef76e69-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Aeromark BT120",
+            "heading_size": "h1"
+          }
+        },
+        "template--17552601776448__6a47f695-8319-4b8a-9b90-8fadb8443d24-16735799419ef76e69-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--17552601776448__6a47f695-8319-4b8a-9b90-8fadb8443d24-16735799419ef76e69-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Buy Now",
+            "button_link": "shopify:\/\/products\/aeromark-bt120"
+          }
+        }
+      },
+      "block_order": [
+        "template--17552601776448__6a47f695-8319-4b8a-9b90-8fadb8443d24-16735799419ef76e69-0",
+        "template--17552601776448__6a47f695-8319-4b8a-9b90-8fadb8443d24-16735799419ef76e69-1",
+        "template--17552601776448__6a47f695-8319-4b8a-9b90-8fadb8443d24-16735799419ef76e69-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/BT120-Front.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "64547df2-a3c8-4594-b92a-b15b5f285891": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--17552601776448__64547df2-a3c8-4594-b92a-b15b5f285891-16735805157342fd16-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Aeromark 2000",
+            "heading_size": "h1"
+          }
+        },
+        "template--17552601776448__64547df2-a3c8-4594-b92a-b15b5f285891-16735805157342fd16-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--17552601776448__64547df2-a3c8-4594-b92a-b15b5f285891-16735805157342fd16-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Buy Now",
+            "button_link": "shopify:\/\/products\/aeromark-2000"
+          }
+        }
+      },
+      "block_order": [
+        "template--17552601776448__64547df2-a3c8-4594-b92a-b15b5f285891-16735805157342fd16-0",
+        "template--17552601776448__64547df2-a3c8-4594-b92a-b15b5f285891-16735805157342fd16-1",
+        "template--17552601776448__64547df2-a3c8-4594-b92a-b15b5f285891-16735805157342fd16-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/2000-Front.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "3abee7b6-65d7-4138-ad24-7877c3811260": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--17552601776448__3abee7b6-65d7-4138-ad24-7877c3811260-16735807650ac4e5e7-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Aeromark 5000",
+            "heading_size": "h1"
+          }
+        },
+        "template--17552601776448__3abee7b6-65d7-4138-ad24-7877c3811260-16735807650ac4e5e7-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--17552601776448__3abee7b6-65d7-4138-ad24-7877c3811260-16735807650ac4e5e7-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Buy Now",
+            "button_link": "shopify:\/\/products\/aeromark-5000"
+          }
+        }
+      },
+      "block_order": [
+        "template--17552601776448__3abee7b6-65d7-4138-ad24-7877c3811260-16735807650ac4e5e7-0",
+        "template--17552601776448__3abee7b6-65d7-4138-ad24-7877c3811260-16735807650ac4e5e7-1",
+        "template--17552601776448__3abee7b6-65d7-4138-ad24-7877c3811260-16735807650ac4e5e7-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/5000-Front.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "e9a5ab95-3faa-4eff-946d-3057bf5391a1": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "{% style %}\n.underline{\n background-color: #51e0dc;\n width: 40%;\n height: 3px;\n \n}\n{% endstyle %}\n\n<div class=\"underline page-width\">\n\n<\/div>",
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "b124edd4-5305-436a-a9a8-84059e29a9b7": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17552601776448__b124edd4-5305-436a-a9a8-84059e29a9b7-1673491649bbac914e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Who we are<\/p>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--17552601776448__b124edd4-5305-436a-a9a8-84059e29a9b7-1673491649bbac914e-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "88c5c845-67fa-4d31-9926-06aeec92bc6a": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--17552601776448__88c5c845-67fa-4d31-9926-06aeec92bc6a-1673490231c5cb2582-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Chemworld Marketing Corp. started as a distribution company in 1985. Founded by multi-awarded chemist Fred C. Reyes, Chemworld initially focused on the distribution of specialty chemicals in the personal care and fppd industries. Chemworld quickly established its reputation as a reliable and trusted source of specialty ingredients, fragrances and flavours with major multinational and local companies in the Philippines.<br\/><br\/>Through the years, Chemwrld has proven to be a pioneering innovator, constantly introducing new and exciting product concpets to the Philippine industries. Its expesive library of formularies includes the latest breakthroughs in product developemnt in Europe, USA and Asia.<br\/><br\/>A major milestone in Chemworld's history is the opening of the first Chemworld Fragrance Factory store in 2004. It's a one-stop shop for perfumery supplies, an offshoot of its advocacy to provide livelihood opportunity to small entrepreneurs. Aside from a broad selection of perfume bottles, hundreds of the most popular fragrance oils and essential oils are available in its 20 branches (and counting) nationwide.<br\/><br\/>With its expertise and experience in the Philippine fragrance market through Chemworld Fragrance Factory, Chemworld's expansion to the air scenting business came naturally. Chemworld started offergin Aeromark air scenting systems to hotels, malls, hospitals, and places of worship in 2015.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--17552601776448__88c5c845-67fa-4d31-9926-06aeec92bc6a-1673490231c5cb2582-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/AERO_LOGO_with_Chemworld.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "50da3436-a633-4c6d-a908-5a4f9274f80e": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "{% style %}\n.underline{\n background-color: #51e0dc;\n width: 40%;\n height: 3px;\n \n}\n{% endstyle %}\n\n<div class=\"underline page-width\">\n\n<\/div>",
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "108ae4b6-3b30-4154-bb6d-bad0d19d2e33": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--17552601776448__108ae4b6-3b30-4154-bb6d-bad0d19d2e33-1673490232fa5a47c9-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/AERO_LOGO_with_Chemworld.png",
+            "title": "Client Logo 1",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--17552601776448__108ae4b6-3b30-4154-bb6d-bad0d19d2e33-1673490232fa5a47c9-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/AERO_LOGO_with_Chemworld.png",
+            "title": "Client Logo  2",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--17552601776448__108ae4b6-3b30-4154-bb6d-bad0d19d2e33-1673490232fa5a47c9-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/AERO_LOGO_with_Chemworld.png",
+            "title": "Client Logo  3",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "a7252164-6628-4074-a561-42ea66673d0e": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/AERO_LOGO_with_Chemworld.png",
+            "title": "Client Logo 4",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17552601776448__108ae4b6-3b30-4154-bb6d-bad0d19d2e33-1673490232fa5a47c9-0",
+        "template--17552601776448__108ae4b6-3b30-4154-bb6d-bad0d19d2e33-1673490232fa5a47c9-1",
+        "template--17552601776448__108ae4b6-3b30-4154-bb6d-bad0d19d2e33-1673490232fa5a47c9-2",
+        "a7252164-6628-4074-a561-42ea66673d0e"
+      ],
+      "settings": {
+        "title": "Our Clients",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 8
+      }
+    },
+    "eda92a2c-8134-4f70-bde5-5f76cc8d9c59": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--17552601776448__eda92a2c-8134-4f70-bde5-5f76cc8d9c59-1673493269f366a9dd-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/AERO_LOGO_with_Chemworld.png",
+            "title": "Client Logo 5",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--17552601776448__eda92a2c-8134-4f70-bde5-5f76cc8d9c59-1673493269f366a9dd-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/AERO_LOGO_with_Chemworld.png",
+            "title": "Client Logo 6",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--17552601776448__eda92a2c-8134-4f70-bde5-5f76cc8d9c59-1673493269f366a9dd-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/AERO_LOGO_with_Chemworld.png",
+            "title": "Client Logo 7",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "5e541dc6-b412-4d55-b8dd-bdd665bc022c": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lord1.jpg",
+            "title": "Client Logo 8",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17552601776448__eda92a2c-8134-4f70-bde5-5f76cc8d9c59-1673493269f366a9dd-0",
+        "template--17552601776448__eda92a2c-8134-4f70-bde5-5f76cc8d9c59-1673493269f366a9dd-1",
+        "template--17552601776448__eda92a2c-8134-4f70-bde5-5f76cc8d9c59-1673493269f366a9dd-2",
+        "5e541dc6-b412-4d55-b8dd-bdd665bc022c"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "ad97e541-d967-42e9-b970-9114379f44a5": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "custom_liquid": "{% style %}\n.underline{\n background-color: #51e0dc;\n width: 40%;\n height: 3px;\n \n}\n{% endstyle %}\n\n<div class=\"underline page-width\">\n\n<\/div>",
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "950ccf57-f062-47bb-8cfd-8b11cc6278ce": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "{% style %}\n.image-with-text__text.rte.body p{\n  text-align: justify;\n}\n{% endstyle %}",
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "6ca1ad89-8d59-492a-a59f-581df8367a19",
+    "d079a440-c0ae-4e71-8457-f53b3208222f",
+    "ee3ec41b-0009-4622-9c0d-b045261d4fd4",
+    "6a47f695-8319-4b8a-9b90-8fadb8443d24",
+    "64547df2-a3c8-4594-b92a-b15b5f285891",
+    "3abee7b6-65d7-4138-ad24-7877c3811260",
+    "e9a5ab95-3faa-4eff-946d-3057bf5391a1",
+    "b124edd4-5305-436a-a9a8-84059e29a9b7",
+    "88c5c845-67fa-4d31-9926-06aeec92bc6a",
+    "50da3436-a633-4c6d-a908-5a4f9274f80e",
+    "108ae4b6-3b30-4154-bb6d-bad0d19d2e33",
+    "eda92a2c-8134-4f70-bde5-5f76cc8d9c59",
+    "ad97e541-d967-42e9-b970-9114379f44a5",
+    "950ccf57-f062-47bb-8cfd-8b11cc6278ce"
+  ]
+}
