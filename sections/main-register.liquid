@@ -24,7 +24,8 @@
     </symbol>
   </svg>
   <h1>
-    {{ 'customer.register.title' | t }} (IM HERE)
+    {% comment %} {{ 'customer.register.title' | t }} (IM HERE) {% endcomment %}
+    Create an individual account
   </h1>
   {%- form 'create_customer', novalidate: 'novalidate' -%}
     {%- if form.errors -%}
@@ -61,8 +62,6 @@
       <label for="RegisterForm-FirstName">
         {{ 'customer.register.first_name' | t }}
       </label>
-    </div>
-    <div class="field">
       <input
         type="text"
         name="customer[last_name]"
@@ -74,6 +73,9 @@
       <label for="RegisterForm-LastName">
         {{ 'customer.register.last_name' | t }}
       </label>
+    </div>
+    <div class="field">
+      
     </div>
     <div class="field">      
       <input
