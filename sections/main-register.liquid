@@ -59,9 +59,9 @@
         autocomplete="given-name"
         placeholder="{{ 'customer.register.first_name' | t }}"
       >
-      <label for="RegisterForm-FirstName">
+      {% comment %} <label for="RegisterForm-FirstName">
         {{ 'customer.register.first_name' | t }}
-      </label>
+      </label> {% endcomment %}
       <input
         type="text"
         name="customer[last_name]"
@@ -70,9 +70,9 @@
         autocomplete="family-name"
         placeholder="{{ 'customer.register.last_name' | t }}"
       >
-      <label for="RegisterForm-LastName">
+      {% comment %} <label for="RegisterForm-LastName">
         {{ 'customer.register.last_name' | t }}
-      </label>
+      </label> {% endcomment %}
     </div>
     <div class="field">
       
