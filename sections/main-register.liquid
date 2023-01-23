@@ -33,6 +33,50 @@
     {% comment %} {{ 'customer.register.title' | t }} (IM HERE) {% endcomment %}
     Create an individual account
   </h1>
+
+  {% form 'create_customer' %}
+    {{ form.errors | default_errors }}
+
+    <div class="first-name">
+      <label for="first-name">First name</label>
+      <input id="first-name" type="text" name="customer[first_name]">
+    </div>
+
+    <div class="last-name">
+      <label for="last-name">Last name</label>
+      <input id="last-name" type="text" name="customer[last_name]">
+    </div>
+
+    <div class="email">
+      <label for="email">Email</label>
+      <input id="email" type="email" name="customer[email]">
+    </div>
+
+    <div class="password">
+      <label for="password">Password</label>
+      <input id="password" type="password" name="customer[password]">
+    </div>
+
+    <div class="password">
+      <label for="password-confirmation">Password</label>
+      <input id="password-confirmation" type="password" name="customer[password]">
+    </div>
+
+    <div class="birthday">
+      <label for="birthday">Birthday</label>
+      <input id="birthday" type="date" name="customer[note][Birthday]">
+    </div>
+
+    <div class="allergies">
+      <label for="allergies">Allergies</label>
+      <input id="allergies" type="text" name="customer[note][Allergies]">
+    </div>
+
+    <div class="submit">
+      <input type="submit" value="Create">
+    </div>
+  {% endform %}
+
   {%- form 'create_customer', novalidate: 'novalidate' -%}
     {%- if form.errors -%}
       <h2 class="form__message" tabindex="-1" autofocus>
