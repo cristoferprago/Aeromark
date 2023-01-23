@@ -59,31 +59,39 @@
         <input id="mobile-number" type="number" name="customer[note][mobile_number]">
       </div>
     </div>
-    <div class="email">
-      <label for="email">Email</label>
-      <input id="email" type="email" name="customer[email]">
-    </div>
+    <div class="field-container">
+      <div class="email">
+        <label for="email">Email</label>
+        <input id="email" type="email" name="customer[email]">
+      </div>
 
-    <div class="password">
-      <label for="password">Password</label>
-      <input id="password" type="password" name="customer[password]">
+      <div class="password">
+        <label for="password">Password</label>
+        <input id="password" type="password" name="customer[password]">
+      </div>
     </div>
+    <div class="field-container">
+      <div class="password">
+        <label for="password-confirmation">Password</label>
+        <input id="password-confirmation" type="password" name="customer[password]">
+      </div>
 
-    <div class="password">
-      <label for="password-confirmation">Password</label>
-      <input id="password-confirmation" type="password" name="customer[password]">
+      <div class="birthday">
+        <label for="birthday">Birthday</label>
+        <input id="birthday" type="date" name="customer[note][Birthday]">
+      </div>
     </div>
+    <div class="field-container">
+      <div class="house_number_street">
+        <label for="house_number_street">House Number, Street</label>
+        <input id="house_number_street" type="text" name="customer[note][House Number, Street]">
+      </div>
 
-    <div class="birthday">
-      <label for="birthday">Birthday</label>
-      <input id="birthday" type="date" name="customer[note][Birthday]">
+      <div class="barangay">
+        <label for="barangay">Barangay</label>
+        <input id="barangay" type="text" name="customer[note][barangay]">
+      </div>
     </div>
-
-    <div class="allergies">
-      <label for="allergies">Allergies</label>
-      <input id="allergies" type="text" name="customer[note][Allergies]">
-    </div>
-
     <div class="submit">
       <input type="submit" value="Create">
     </div>
