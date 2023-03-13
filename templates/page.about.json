@@ -118,12 +118,60 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "a5aedafe-a669-4e4c-8493-40ed70df2549": {
+      "type": "video",
+      "settings": {
+        "heading": "Video",
+        "heading_size": "h1",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "052f2d38-1345-4b70-b0e3-c89ceb10b011": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17670462964032__052f2d38-1345-4b70-b0e3-c89ceb10b011-16786942534ae0d100-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>THE SCENTING PROCESS<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--17670462964032__052f2d38-1345-4b70-b0e3-c89ceb10b011-16786942534ae0d100-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The process of finding & creating a scent identity is very detailed & personalized as no two businesses should be the same.<br\/><\/p><p>During the customized formulation, all aspects of the business are taken into consideration: their history, customers, goals & the desired emotional response.<br\/><br\/>These are all interpreted & translated into a scent that represents their brand.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17670462964032__052f2d38-1345-4b70-b0e3-c89ceb10b011-16786942534ae0d100-0",
+        "template--17670462964032__052f2d38-1345-4b70-b0e3-c89ceb10b011-16786942534ae0d100-1"
+      ],
+      "custom_css": [
+        ".rich-text__text.rte {text-align: justify;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "main",
     "f8b7b552-0b1f-49b8-8997-3a092c05afd6",
     "7f858793-4492-43ea-a63d-2bd2e6c9e23b",
-    "e2bef7a1-25a0-4ee6-93e3-16d09dda8907"
+    "e2bef7a1-25a0-4ee6-93e3-16d09dda8907",
+    "a5aedafe-a669-4e4c-8493-40ed70df2549",
+    "052f2d38-1345-4b70-b0e3-c89ceb10b011"
   ]
 }
