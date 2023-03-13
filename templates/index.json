@@ -47,7 +47,7 @@
         "template--17552601776448__d079a440-c0ae-4e71-8457-f53b3208222f-1673420737369da84f-2": {
           "type": "button",
           "settings": {
-            "button_label": "Learn more >",
+            "button_label": "LEARN MORE>",
             "button_link": "shopify:\/\/pages\/about",
             "button_style_secondary": false,
             "button_label_2": "",
@@ -123,12 +123,79 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "c81f8643-1eba-40a6-b3df-83df16ed1d07": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17670463258944__c81f8643-1eba-40a6-b3df-83df16ed1d07-1678693090f7bf4055-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Who is Aeromark?<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--17670463258944__c81f8643-1eba-40a6-b3df-83df16ed1d07-1678693090f7bf4055-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Aeromark can create & develop unique fragrances that will bring your brand, product, or space to life.<\/p>"
+          }
+        },
+        "template--17670463258944__c81f8643-1eba-40a6-b3df-83df16ed1d07-1678693090f7bf4055-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "LEARN MORE>",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17670463258944__c81f8643-1eba-40a6-b3df-83df16ed1d07-1678693090f7bf4055-0",
+        "template--17670463258944__c81f8643-1eba-40a6-b3df-83df16ed1d07-1678693090f7bf4055-1",
+        "template--17670463258944__c81f8643-1eba-40a6-b3df-83df16ed1d07-1678693090f7bf4055-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "5459dbc6-6281-4039-ae2d-7ad24fe9c3b1": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17670463258944__5459dbc6-6281-4039-ae2d-7ad24fe9c3b1-1678693090f7bf4055-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><em>\"Of the Five Senses, Smell is the one with the Best Memory\"<br\/>Rebecca McClanahan(Author)<\/em><\/p>",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "template--17670463258944__5459dbc6-6281-4039-ae2d-7ad24fe9c3b1-1678693090f7bf4055-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "6ca1ad89-8d59-492a-a59f-581df8367a19",
     "d079a440-c0ae-4e71-8457-f53b3208222f",
     "ee3ec41b-0009-4622-9c0d-b045261d4fd4",
-    "277d89ab-fd04-4bb5-81ce-31384ca1b2b2"
+    "277d89ab-fd04-4bb5-81ce-31384ca1b2b2",
+    "c81f8643-1eba-40a6-b3df-83df16ed1d07",
+    "5459dbc6-6281-4039-ae2d-7ad24fe9c3b1"
   ]
 }
