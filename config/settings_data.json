@@ -5,7 +5,7 @@
     "gradient_accent_1": "",
     "colors_accent_2": "#334fb4",
     "gradient_accent_2": "",
-    "colors_text": "#121212",
+    "colors_text": "#292e34",
     "colors_outline_button_labels": "#121212",
     "colors_background_1": "#ffffff",
     "gradient_background_1": "",
@@ -193,15 +193,23 @@
               "heading": "Our mission",
               "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
             }
+          },
+          "dc190443-4098-4d3d-8043-d75a310b5000": {
+            "type": "text",
+            "settings": {
+              "heading": "",
+              "subtext": "<p>For product demo please contact us at<\/p>"
+            }
           }
         },
         "block_order": [
           "footer-0",
           "footer-1",
-          "footer-2"
+          "footer-2",
+          "dc190443-4098-4d3d-8043-d75a310b5000"
         ],
         "settings": {
-          "color_scheme": "background-2",
+          "color_scheme": "inverse",
           "newsletter_enable": false,
           "newsletter_heading": "Subscribe to our emails",
           "show_social": false,
@@ -209,8 +217,8 @@
           "enable_language_selector": false,
           "payment_enable": false,
           "margin_top": 0,
-          "padding_top": 0,
-          "padding_bottom": 32
+          "padding_top": 28,
+          "padding_bottom": 28
         }
       },
       "main-password-header": {
