@@ -54,16 +54,70 @@
       "settings": {
         "layout": "full_bleed",
         "slide_height": "adapt_image",
-        "slider_visual": "counter",
+        "slider_visual": "dots",
         "auto_rotate": false,
         "change_slides_speed": 5,
-        "show_text_below": true,
-        "accessibility_info": "Slideshow about our brand"
+        "show_text_below": false,
+        "accessibility_info": ""
+      }
+    },
+    "7f858793-4492-43ea-a63d-2bd2e6c9e23b": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17670462964032__7f858793-4492-43ea-a63d-2bd2e6c9e23b-16786942534ae0d100-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Air-scenting solution for malls, hotels & corporate establishments<br\/>Your fragrance satisfaction is our priority<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17670462964032__7f858793-4492-43ea-a63d-2bd2e6c9e23b-16786942534ae0d100-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "e2bef7a1-25a0-4ee6-93e3-16d09dda8907": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17670462964032__e2bef7a1-25a0-4ee6-93e3-16d09dda8907-16786942534ae0d100-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>WHAT IS HEATING, VENTILATION & AIR CONDITIONING SCENTING?<\/p>",
+            "heading_size": "h2"
+          }
+        },
+        "template--17670462964032__e2bef7a1-25a0-4ee6-93e3-16d09dda8907-16786942534ae0d100-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>HVAC scenting is when a scent is diffused through central heating & cooling sysmte.<\/p><p><\/p><p>This is accomplished by connecting an HVAC scent diffuser to an existing HVAC system where it then disperses the aroma throughout your facility.<\/p><p><\/p><p>Diffusing scent through your HVAC system provides powerful, even & efficient scenting throughout large spaces.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17670462964032__e2bef7a1-25a0-4ee6-93e3-16d09dda8907-16786942534ae0d100-0",
+        "template--17670462964032__e2bef7a1-25a0-4ee6-93e3-16d09dda8907-16786942534ae0d100-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     }
   },
   "order": [
     "main",
-    "f8b7b552-0b1f-49b8-8997-3a092c05afd6"
+    "f8b7b552-0b1f-49b8-8997-3a092c05afd6",
+    "7f858793-4492-43ea-a63d-2bd2e6c9e23b",
+    "e2bef7a1-25a0-4ee6-93e3-16d09dda8907"
   ]
 }
