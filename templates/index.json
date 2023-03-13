@@ -188,6 +188,85 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "119344a4-a50c-486f-8d86-5bb11d6366c5": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17670463258944__119344a4-a50c-486f-8d86-5bb11d6366c5-1678693090f7bf4055-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Who Trusted Aeromark<\/p>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--17670463258944__119344a4-a50c-486f-8d86-5bb11d6366c5-1678693090f7bf4055-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "f21c36e8-1cb2-47df-a2ac-cd6d4b5b623f": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--17670463258944__f21c36e8-1cb2-47df-a2ac-cd6d4b5b623f-1678692789ecb8dd99-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BT120-Front.jpg",
+            "title": "HOTEL & RESORTS",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--17670463258944__f21c36e8-1cb2-47df-a2ac-cd6d4b5b623f-1678692789ecb8dd99-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BT120-Front.jpg",
+            "title": "RETAIL",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--17670463258944__f21c36e8-1cb2-47df-a2ac-cd6d4b5b623f-1678692789ecb8dd99-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BT120-Front.jpg",
+            "title": "RESTAURANTS",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17670463258944__f21c36e8-1cb2-47df-a2ac-cd6d4b5b623f-1678692789ecb8dd99-0",
+        "template--17670463258944__f21c36e8-1cb2-47df-a2ac-cd6d4b5b623f-1678692789ecb8dd99-1",
+        "template--17670463258944__f21c36e8-1cb2-47df-a2ac-cd6d4b5b623f-1678692789ecb8dd99-2"
+      ],
+      "settings": {
+        "title": "Our Valued Partners",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -196,6 +275,8 @@
     "ee3ec41b-0009-4622-9c0d-b045261d4fd4",
     "277d89ab-fd04-4bb5-81ce-31384ca1b2b2",
     "c81f8643-1eba-40a6-b3df-83df16ed1d07",
-    "5459dbc6-6281-4039-ae2d-7ad24fe9c3b1"
+    "5459dbc6-6281-4039-ae2d-7ad24fe9c3b1",
+    "119344a4-a50c-486f-8d86-5bb11d6366c5",
+    "f21c36e8-1cb2-47df-a2ac-cd6d4b5b623f"
   ]
 }
