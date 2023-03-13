@@ -74,6 +74,9 @@
       "block_order": [
         "template--17670462964032__7f858793-4492-43ea-a63d-2bd2e6c9e23b-16786942534ae0d100-1"
       ],
+      "custom_css": [
+
+      ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -103,6 +106,9 @@
       "block_order": [
         "template--17670462964032__e2bef7a1-25a0-4ee6-93e3-16d09dda8907-16786942534ae0d100-0",
         "template--17670462964032__e2bef7a1-25a0-4ee6-93e3-16d09dda8907-16786942534ae0d100-1"
+      ],
+      "custom_css": [
+        ".rich-text__text.rte {text-align: justify;}"
       ],
       "settings": {
         "desktop_content_position": "center",
