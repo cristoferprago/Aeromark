@@ -112,9 +112,9 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/BT120-Front.jpg",
-            "title": "Air Scenting Machines",
+            "title": "",
             "text": "",
-            "link_label": "",
+            "link_label": "Air Scenting Machines",
             "link": "shopify:\/\/collections\/machines"
           }
         },
@@ -122,9 +122,9 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/BT120-Front.jpg",
-            "title": "Fragrances",
+            "title": "",
             "text": "",
-            "link_label": "",
+            "link_label": "Fragrances",
             "link": "shopify:\/\/collections\/scents"
           }
         }
