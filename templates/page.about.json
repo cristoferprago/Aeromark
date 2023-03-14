@@ -8,170 +8,45 @@
         "padding_bottom": 28
       }
     },
-    "f8b7b552-0b1f-49b8-8997-3a092c05afd6": {
-      "type": "slideshow",
+    "b548a009-ffb3-4d6f-bd5f-ec82feb73b4f": {
+      "type": "image-with-text",
       "blocks": {
-        "template--17670462964032__f8b7b552-0b1f-49b8-8997-3a092c05afd6-16786942099d4be1d1-0": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Banner1.2.gif",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "template--17670462964032__f8b7b552-0b1f-49b8-8997-3a092c05afd6-16786942099d4be1d1-1": {
-          "type": "slide",
-          "settings": {
-            "heading": "Image slide",
-            "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        }
-      },
-      "block_order": [
-        "template--17670462964032__f8b7b552-0b1f-49b8-8997-3a092c05afd6-16786942099d4be1d1-0",
-        "template--17670462964032__f8b7b552-0b1f-49b8-8997-3a092c05afd6-16786942099d4be1d1-1"
-      ],
-      "settings": {
-        "layout": "full_bleed",
-        "slide_height": "adapt_image",
-        "slider_visual": "dots",
-        "auto_rotate": false,
-        "change_slides_speed": 5,
-        "show_text_below": false,
-        "accessibility_info": ""
-      }
-    },
-    "7f858793-4492-43ea-a63d-2bd2e6c9e23b": {
-      "type": "rich-text",
-      "blocks": {
-        "template--17670462964032__7f858793-4492-43ea-a63d-2bd2e6c9e23b-16786942534ae0d100-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Air-scenting solution for malls, hotels & corporate establishments<br\/>Your fragrance satisfaction is our priority<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--17670462964032__7f858793-4492-43ea-a63d-2bd2e6c9e23b-16786942534ae0d100-1"
-      ],
-      "custom_css": [
-
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "e2bef7a1-25a0-4ee6-93e3-16d09dda8907": {
-      "type": "rich-text",
-      "blocks": {
-        "template--17670462964032__e2bef7a1-25a0-4ee6-93e3-16d09dda8907-16786942534ae0d100-0": {
+        "template--17670462964032__b548a009-ffb3-4d6f-bd5f-ec82feb73b4f-1678765961dd61b6f0-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>WHAT IS HEATING, VENTILATION & AIR CONDITIONING SCENTING?<\/p>",
-            "heading_size": "h2"
-          }
-        },
-        "template--17670462964032__e2bef7a1-25a0-4ee6-93e3-16d09dda8907-16786942534ae0d100-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>HVAC scenting is when a scent is diffused through central heating & cooling system.<\/p><p><\/p><p>This is accomplished by connecting an HVAC scent diffuser to an existing HVAC system where it then disperses the aroma throughout your facility.<\/p><p><\/p><p>Diffusing scent through your HVAC system provides powerful, even & efficient scenting throughout large spaces.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--17670462964032__e2bef7a1-25a0-4ee6-93e3-16d09dda8907-16786942534ae0d100-0",
-        "template--17670462964032__e2bef7a1-25a0-4ee6-93e3-16d09dda8907-16786942534ae0d100-1"
-      ],
-      "custom_css": [
-        ".rich-text__text.rte {text-align: justify;}"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "a5aedafe-a669-4e4c-8493-40ed70df2549": {
-      "type": "video",
-      "settings": {
-        "heading": "Video",
-        "heading_size": "h1",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "052f2d38-1345-4b70-b0e3-c89ceb10b011": {
-      "type": "rich-text",
-      "blocks": {
-        "template--17670462964032__052f2d38-1345-4b70-b0e3-c89ceb10b011-16786942534ae0d100-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>THE SCENTING PROCESS<\/p>",
+            "heading": "THIS IS AEROMARK.",
             "heading_size": "h1"
           }
         },
-        "template--17670462964032__052f2d38-1345-4b70-b0e3-c89ceb10b011-16786942534ae0d100-1": {
+        "template--17670462964032__b548a009-ffb3-4d6f-bd5f-ec82feb73b4f-1678765961dd61b6f0-1": {
           "type": "text",
           "settings": {
-            "text": "<p>The process of finding & creating a scent identity is very detailed & personalized as no two businesses should be the same.<br\/><\/p><p>During the customized formulation, all aspects of the business are taken into consideration: their history, customers, goals & the desired emotional response.<br\/><br\/>These are all interpreted & translated into a scent that represents their brand.<\/p>"
+            "text": "<p>Aeromark can create & develop your signature scent that will bring your brand, product, or space to life.<\/p><p><\/p><p>We can customize your unique scent with an added benefit of anti-bacterial & anti-viral, or anti-smoke actives.<\/p><p><\/p>",
+            "text_style": "body"
           }
         }
       },
       "block_order": [
-        "template--17670462964032__052f2d38-1345-4b70-b0e3-c89ceb10b011-16786942534ae0d100-0",
-        "template--17670462964032__052f2d38-1345-4b70-b0e3-c89ceb10b011-16786942534ae0d100-1"
-      ],
-      "custom_css": [
-        ".rich-text__text.rte {text-align: justify;}"
+        "template--17670462964032__b548a009-ffb3-4d6f-bd5f-ec82feb73b4f-1678765961dd61b6f0-0",
+        "template--17670462964032__b548a009-ffb3-4d6f-bd5f-ec82feb73b4f-1678765961dd61b6f0-1"
       ],
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
+        "image": "shopify:\/\/shop_images\/AERO_LOGO_with_Chemworld.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
         "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     }
   },
   "order": [
     "main",
-    "f8b7b552-0b1f-49b8-8997-3a092c05afd6",
-    "7f858793-4492-43ea-a63d-2bd2e6c9e23b",
-    "e2bef7a1-25a0-4ee6-93e3-16d09dda8907",
-    "a5aedafe-a669-4e4c-8493-40ed70df2549",
-    "052f2d38-1345-4b70-b0e3-c89ceb10b011"
+    "b548a009-ffb3-4d6f-bd5f-ec82feb73b4f"
   ]
 }
