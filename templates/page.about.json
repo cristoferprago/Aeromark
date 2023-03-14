@@ -21,7 +21,7 @@
         "template--17670462964032__b548a009-ffb3-4d6f-bd5f-ec82feb73b4f-1678765961dd61b6f0-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Aeromark can create & develop your signature scent that will bring your brand, product, or space to life.<\/p><p><\/p><p>We can customize your unique scent with an added benefit of anti-bacterial & anti-viral, or anti-smoke actives.<\/p><p><\/p>",
+            "text": "<p>Aeromark can create & develop your signature scent that will bring your brand, product, or space to life.<\/p><p><\/p><p>We can customize your unique scent with an added benefit of anti-bacterial & anti-viral, or anti-smoke actives.<\/p><p><\/p><p>Our diffuser machines have many automated functions, allowing for a low maintenance operations & removing any need for a learning curve to scent your space. The formulation of your scent is based on the machine to be used.<\/p><p><\/p><p>Your fragrance satisfaction is our priority.<\/p><p><\/p>",
             "text_style": "body"
           }
         }
@@ -29,6 +29,9 @@
       "block_order": [
         "template--17670462964032__b548a009-ffb3-4d6f-bd5f-ec82feb73b4f-1678765961dd61b6f0-0",
         "template--17670462964032__b548a009-ffb3-4d6f-bd5f-ec82feb73b4f-1678765961dd61b6f0-1"
+      ],
+      "custom_css": [
+
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/AERO_LOGO_with_Chemworld.png",
@@ -46,6 +49,7 @@
     },
     "71e800cc-ed14-42f8-a207-a91245aa6f24": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "template--17670462964032__71e800cc-ed14-42f8-a207-a91245aa6f24-1678765944dc321baf-1": {
           "type": "text",
@@ -56,6 +60,10 @@
       },
       "block_order": [
         "template--17670462964032__71e800cc-ed14-42f8-a207-a91245aa6f24-1678765944dc321baf-1"
+      ],
+      "custom_css": [
+        "p {text-align: justify;}",
+        ".isolate {top-margin: 50px;}"
       ],
       "settings": {
         "desktop_content_position": "center",
