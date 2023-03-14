@@ -10,6 +10,7 @@
     },
     "b548a009-ffb3-4d6f-bd5f-ec82feb73b4f": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "template--17670462964032__b548a009-ffb3-4d6f-bd5f-ec82feb73b4f-1678765961dd61b6f0-0": {
           "type": "heading",
@@ -73,11 +74,42 @@
         "padding_top": 0,
         "padding_bottom": 52
       }
+    },
+    "65736152-a70f-429c-85c8-3ab306b296ba": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17670462964032__65736152-a70f-429c-85c8-3ab306b296ba-1678765944dc321baf-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>WHY CHOOSE AEROMARK<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--17670462964032__65736152-a70f-429c-85c8-3ab306b296ba-1678765944dc321baf-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>A ir scenting leader in the Philippines<br\/>E xpertise in the Fragrance Formulation development<br\/>R eliable, advanced, and stylish air-scenting equipments<br\/>O utstanding turn-around time for new scent requests<br\/>M anufactures signature scents in its own facilities<br\/>A ccredited importer from the world's Top Fragrance Houses<br\/>R ecommended & trusted by prestigious commercial establishments<br\/>K eeps customers happy<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17670462964032__65736152-a70f-429c-85c8-3ab306b296ba-1678765944dc321baf-0",
+        "template--17670462964032__65736152-a70f-429c-85c8-3ab306b296ba-1678765944dc321baf-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "main",
     "b548a009-ffb3-4d6f-bd5f-ec82feb73b4f",
-    "71e800cc-ed14-42f8-a207-a91245aa6f24"
+    "71e800cc-ed14-42f8-a207-a91245aa6f24",
+    "65736152-a70f-429c-85c8-3ab306b296ba"
   ]
 }
