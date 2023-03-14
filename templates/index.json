@@ -251,6 +251,56 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "73803e16-50ed-46a6-9ca0-e86474d4240e": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BT120-Front.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "53913a00-b0a6-48ff-94c9-ac161099ffbc": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BT120-Front.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "42c24f02-65b1-4105-81ac-91803537ec5c": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BT120-Front.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "4263c6d9-196c-4909-8fa6-6fde8d77d213": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BT120-Front.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "ed722233-de96-483f-8d87-559e95e7d8b9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BT120-Front.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -258,7 +308,12 @@
         "e2ddc85d-1251-41e8-b9af-d88e28a42dbc",
         "a0fcb204-64a9-4f93-936c-0b962d677ffe",
         "650d70e3-1ba2-4bdc-aaf0-571c3167d66f",
-        "1ce2baa1-af2b-4068-bb99-86f954617b5f"
+        "1ce2baa1-af2b-4068-bb99-86f954617b5f",
+        "73803e16-50ed-46a6-9ca0-e86474d4240e",
+        "53913a00-b0a6-48ff-94c9-ac161099ffbc",
+        "42c24f02-65b1-4105-81ac-91803537ec5c",
+        "4263c6d9-196c-4909-8fa6-6fde8d77d213",
+        "ed722233-de96-483f-8d87-559e95e7d8b9"
       ],
       "settings": {
         "title": "",
