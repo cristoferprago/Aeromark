@@ -32,21 +32,44 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/AERO_LOGO_with_Chemworld.png",
-        "height": "adapt",
+        "height": "small",
         "desktop_image_width": "small",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
+        "content_layout": "overlap",
         "color_scheme": "background-1",
         "mobile_content_alignment": "left",
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 0
+      }
+    },
+    "71e800cc-ed14-42f8-a207-a91245aa6f24": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17670462964032__71e800cc-ed14-42f8-a207-a91245aa6f24-1678765944dc321baf-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our diffuser machines have many automated functions, allowing for a low maintenance operations & removing any need for a learning curve to scent your space. The formulation of your scent is based on the machine to be used.<\/p><p><\/p><p>Your fragrance satisfaction is our priority.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17670462964032__71e800cc-ed14-42f8-a207-a91245aa6f24-1678765944dc321baf-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 52
       }
     }
   },
   "order": [
     "main",
-    "b548a009-ffb3-4d6f-bd5f-ec82feb73b4f"
+    "b548a009-ffb3-4d6f-bd5f-ec82feb73b4f",
+    "71e800cc-ed14-42f8-a207-a91245aa6f24"
   ]
 }
