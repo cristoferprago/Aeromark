@@ -182,7 +182,7 @@
         "template--17670463258944__119344a4-a50c-486f-8d86-5bb11d6366c5-1678693090f7bf4055-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Who Trusted Aeromark<\/p>",
+            "heading": "<p>OUR VALUED PARTNERS<\/p>",
             "heading_size": "h1"
           }
         }
@@ -206,27 +206,47 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/BT120-Front.jpg",
-            "title": "HOTEL & RESORTS",
+            "title": "",
             "text": "",
             "link_label": "",
             "link": ""
           }
         },
-        "template--17670463258944__f21c36e8-1cb2-47df-a2ac-cd6d4b5b623f-1678692789ecb8dd99-1": {
+        "e2ddc85d-1251-41e8-b9af-d88e28a42dbc": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/BT120-Front.jpg",
-            "title": "RETAIL",
+            "title": "",
             "text": "",
             "link_label": "",
             "link": ""
           }
         },
-        "template--17670463258944__f21c36e8-1cb2-47df-a2ac-cd6d4b5b623f-1678692789ecb8dd99-2": {
+        "a0fcb204-64a9-4f93-936c-0b962d677ffe": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/BT120-Front.jpg",
-            "title": "RESTAURANTS",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "650d70e3-1ba2-4bdc-aaf0-571c3167d66f": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BT120-Front.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1ce2baa1-af2b-4068-bb99-86f954617b5f": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BT120-Front.jpg",
+            "title": "",
             "text": "",
             "link_label": "",
             "link": ""
@@ -235,15 +255,17 @@
       },
       "block_order": [
         "template--17670463258944__f21c36e8-1cb2-47df-a2ac-cd6d4b5b623f-1678692789ecb8dd99-0",
-        "template--17670463258944__f21c36e8-1cb2-47df-a2ac-cd6d4b5b623f-1678692789ecb8dd99-1",
-        "template--17670463258944__f21c36e8-1cb2-47df-a2ac-cd6d4b5b623f-1678692789ecb8dd99-2"
+        "e2ddc85d-1251-41e8-b9af-d88e28a42dbc",
+        "a0fcb204-64a9-4f93-936c-0b962d677ffe",
+        "650d70e3-1ba2-4bdc-aaf0-571c3167d66f",
+        "1ce2baa1-af2b-4068-bb99-86f954617b5f"
       ],
       "settings": {
-        "title": "Our Valued Partners",
+        "title": "",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "square",
-        "columns_desktop": 3,
+        "columns_desktop": 5,
         "column_alignment": "left",
         "background_style": "primary",
         "button_label": "",
