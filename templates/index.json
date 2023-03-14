@@ -112,20 +112,20 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/BT120-Front.jpg",
-            "title": "",
+            "title": "Air Scenting Machines",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/machines"
           }
         },
         "template--17670463258944__277d89ab-fd04-4bb5-81ce-31384ca1b2b2-1678692789ecb8dd99-1": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/BT120-Front.jpg",
-            "title": "",
+            "title": "Fragrances",
             "text": "",
             "link_label": "",
-            "link": "shopify:\/\/collections"
+            "link": "shopify:\/\/collections\/scents"
           }
         }
       },
