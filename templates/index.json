@@ -139,7 +139,8 @@
       ],
       "custom_css": [
         ".title-wrapper-with-link.title-wrapper--self-padded-mobile.title-wrapper--no-top-margin {justify-content: center;}",
-        "h2.title.h1 {font-weight: bold;}"
+        "h2.title.h1 {font-weight: bold;}",
+        ".page-width {padding: 0 20rem;}"
       ],
       "settings": {
         "title": "SHOP NOW",
@@ -187,7 +188,7 @@
         "template--17670463258944__119344a4-a50c-486f-8d86-5bb11d6366c5-1678693090f7bf4055-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>OUR VALUED PARTNERS<\/p>",
+            "heading": "<p>OUR VALUED PARTNERS<\/p><p><\/p>",
             "heading_size": "h1"
           }
         }
