@@ -63,6 +63,34 @@
         "padding_bottom": 36
       }
     },
+    "14c72083-d6e4-4ae1-a0ca-2cc1238b5eda": {
+      "type": "image-banner",
+      "blocks": {
+        "template--18336244138304__14c72083-d6e4-4ae1-a0ca-2cc1238b5eda-1678871806c6d83964-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "OUR SCENT LIBRARY",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--18336244138304__14c72083-d6e4-4ae1-a0ca-2cc1238b5eda-1678871806c6d83964-0"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Our_scent_library.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "df18137d-cea2-421f-b254-66291063b4d8": {
       "type": "featured-collection",
       "settings": {
@@ -95,6 +123,7 @@
     "main",
     "886db236-9faf-40c7-a2aa-094d1e6c5ceb",
     "4679ca62-0153-4be0-9314-c83f047ef687",
+    "14c72083-d6e4-4ae1-a0ca-2cc1238b5eda",
     "df18137d-cea2-421f-b254-66291063b4d8"
   ]
 }
