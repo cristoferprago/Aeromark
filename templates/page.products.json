@@ -8,6 +8,34 @@
         "padding_bottom": 28
       }
     },
+    "886db236-9faf-40c7-a2aa-094d1e6c5ceb": {
+      "type": "image-banner",
+      "blocks": {
+        "template--18336244138304__886db236-9faf-40c7-a2aa-094d1e6c5ceb-1678871806c6d83964-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "ADVANCED AIR-SCENTING MACHINES",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--18336244138304__886db236-9faf-40c7-a2aa-094d1e6c5ceb-1678871806c6d83964-0"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Advanced_air_scenting_machines.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "4679ca62-0153-4be0-9314-c83f047ef687": {
       "type": "featured-collection",
       "settings": {
@@ -65,6 +93,7 @@
   },
   "order": [
     "main",
+    "886db236-9faf-40c7-a2aa-094d1e6c5ceb",
     "4679ca62-0153-4be0-9314-c83f047ef687",
     "df18137d-cea2-421f-b254-66291063b4d8"
   ]
