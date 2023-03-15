@@ -86,6 +86,9 @@
         "5ec2aad0-0a79-4ed0-9aec-3bf115307ed8",
         "template--17552601776448__d079a440-c0ae-4e71-8457-f53b3208222f-1673420737369da84f-2"
       ],
+      "custom_css": [
+        "h2.rich-text__heading.rte.h1 {font-weight: bold;}"
+      ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -134,7 +137,8 @@
         "template--17670463258944__277d89ab-fd04-4bb5-81ce-31384ca1b2b2-1678692789ecb8dd99-1"
       ],
       "custom_css": [
-        ".title-wrapper-with-link.title-wrapper--self-padded-mobile.title-wrapper--no-top-margin {justify-content: center;}"
+        ".title-wrapper-with-link.title-wrapper--self-padded-mobile.title-wrapper--no-top-margin {justify-content: center;}",
+        "h2.title.h1 {font-weight: bold;}"
       ],
       "settings": {
         "title": "SHOP NOW",
@@ -189,6 +193,9 @@
       },
       "block_order": [
         "template--17670463258944__119344a4-a50c-486f-8d86-5bb11d6366c5-1678693090f7bf4055-0"
+      ],
+      "custom_css": [
+        "h2.rich-text__heading.rte.h1 {font-weight: bold;}"
       ],
       "settings": {
         "desktop_content_position": "center",
