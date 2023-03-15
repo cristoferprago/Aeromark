@@ -6,7 +6,7 @@
         "def0643d-f25b-4571-b79c-85ba4ef0711a": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Banner1.png",
+            "image": "shopify:\/\/shop_images\/Layer_1.png",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -21,17 +21,18 @@
             "text_alignment_mobile": "center"
           }
         },
-        "b22ef59e-497c-484c-8daa-13bd7b46af10": {
+        "05adadce-55a0-4900-b202-ee659029d9b1": {
           "type": "slide",
           "settings": {
-            "heading": "Image slide",
+            "image": "shopify:\/\/shop_images\/3d-rendering-luxury-classic-wall-in-living-room-an-2021-10-06-21-45-58-utc.png",
+            "heading": "",
             "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
+            "subheading": "",
+            "button_label": "",
             "link": "",
             "button_style_secondary": false,
             "box_align": "middle-center",
-            "show_text_box": true,
+            "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
             "color_scheme": "background-1",
@@ -41,7 +42,7 @@
       },
       "block_order": [
         "def0643d-f25b-4571-b79c-85ba4ef0711a",
-        "b22ef59e-497c-484c-8daa-13bd7b46af10"
+        "05adadce-55a0-4900-b202-ee659029d9b1"
       ],
       "settings": {
         "layout": "full_bleed",
