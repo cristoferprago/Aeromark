@@ -22,6 +22,9 @@
       "block_order": [
         "template--18336244138304__886db236-9faf-40c7-a2aa-094d1e6c5ceb-1678871806c6d83964-0"
       ],
+      "custom_css": [
+        "h2.banner__heading.h1 {color: black; font-weight: bold;}"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Advanced_air_scenting_machines.png",
         "image_overlay_opacity": 0,
@@ -76,6 +79,9 @@
       },
       "block_order": [
         "template--18336244138304__14c72083-d6e4-4ae1-a0ca-2cc1238b5eda-1678871806c6d83964-0"
+      ],
+      "custom_css": [
+        "h2.banner__heading.h1 {color: black; font-weight: bold;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Our_scent_library.png",
