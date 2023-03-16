@@ -11,7 +11,8 @@
     "form": {
       "type": "contact-form",
       "custom_css": [
-        "h2.title.title-wrapper--no-top-margin.h1 {TEXT-ALIGN: CENTER;}"
+        "h2.title.title-wrapper--no-top-margin.h1 {text-align: CENTER;}",
+        "p {text-align: center;}"
       ],
       "settings": {
         "heading": "FOR PRODUCT DEMO",
