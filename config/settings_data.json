@@ -153,7 +153,8 @@
       "header": {
         "type": "header",
         "custom_css": [
-          "span {font-size: 2rem;}"
+          "span {font-size: 2rem;}",
+          "li {margin: 10px;}"
         ],
         "settings": {
           "color_scheme": "background-1",
