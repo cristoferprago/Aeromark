@@ -140,7 +140,7 @@
       "custom_css": [
         ".title-wrapper-with-link.title-wrapper--self-padded-mobile.title-wrapper--no-top-margin {justify-content: center;}",
         "h2.title.h1 {font-weight: bold;}",
-        ".page-width {padding: 0 20rem;}"
+        ".page-width {padding: 0 0rem;}"
       ],
       "settings": {
         "title": "SHOP NOW",
