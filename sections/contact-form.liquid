@@ -39,33 +39,33 @@
       {%- endif -%}
 <!--       <div class="contact__fields"> -->
         <div class="field">
-          <input class="field__input" placeholder="Name" type="text" id="ContactForm-name">
+          <input class="field__input" placeholder="Name" type="text" id="ContactForm-name" name="contact[name]">
           <label class="field__label">Name</label>
         </div>
         <div class="field">
-          <input class="field__input" placeholder="Company Name" type="text" id="ContactForm-companyName">
+          <input class="field__input" placeholder="Company Name" type="text" id="ContactForm-companyName" name="contact[companyName]">
           <label class="field__label">Company Name</label>
         </div>
         <div class="field">
-          <input class="field__input" placeholder="Email" type="email" id="ContactForm-email">
+          <input class="field__input" placeholder="Email" type="email" id="ContactForm-email" name="contact[email]">
           <label class="field__label">Email</label>
         </div>
         <div class="field">
-          <input class="field__input" placeholder="Contact Number" type="tel" id="ContactForm-contactNumber">
+          <input class="field__input" placeholder="Contact Number" type="tel" id="ContactForm-contactNumber" name="contact[contactNumber]">
           <label class="field__label">Contact Number</label>
         </div>
         <div>
 
 
 
-<!--           
+          
         <div class="field">
           <input class="field__input" autocomplete="name" type="text" id="ContactForm-name" name="contact[{{ 'templates.contact.form.name' | t }}]" value="{% if form.name %}{{ form.name }}{% elsif customer %}{{ customer.name }}{% endif %}" placeholder="{{ 'templates.contact.form.name' | t }}">
           <label class="field__label" for="ContactForm-name">{{ 'templates.contact.form.name' | t }}</label>
         </div>
         <div class="field field--with-error">
           <input
-            autocomplete="email"
+<!--             autocomplete="email" -->
             type="email"
             id="ContactForm-email"
             class="field__input"
@@ -106,7 +106,7 @@
         <label class="form__label field__label" for="ContactForm-body">{{ 'templates.contact.form.comment' | t }}</label>
       </div>
 
- -->
+
 
 
           
