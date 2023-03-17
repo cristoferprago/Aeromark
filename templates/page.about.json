@@ -8,6 +8,50 @@
         "padding_bottom": 28
       }
     },
+    "0396d12f-3613-43b3-868a-028e824d989c": {
+      "type": "image-with-text1",
+      "blocks": {
+        "template--17670462964032__0396d12f-3613-43b3-868a-028e824d989c-1679029241f137456b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "template--17670462964032__0396d12f-3613-43b3-868a-028e824d989c-1679029241f137456b-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--17670462964032__0396d12f-3613-43b3-868a-028e824d989c-1679029241f137456b-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17670462964032__0396d12f-3613-43b3-868a-028e824d989c-1679029241f137456b-0",
+        "template--17670462964032__0396d12f-3613-43b3-868a-028e824d989c-1679029241f137456b-1",
+        "template--17670462964032__0396d12f-3613-43b3-868a-028e824d989c-1679029241f137456b-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/AERO_LOGO_with_Chemworld.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "b548a009-ffb3-4d6f-bd5f-ec82feb73b4f": {
       "type": "image-with-text",
       "disabled": true,
@@ -314,53 +358,11 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "0396d12f-3613-43b3-868a-028e824d989c": {
-      "type": "image-with-text1",
-      "blocks": {
-        "template--17670462964032__0396d12f-3613-43b3-868a-028e824d989c-1679029241f137456b-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image with text",
-            "heading_size": "h1"
-          }
-        },
-        "template--17670462964032__0396d12f-3613-43b3-868a-028e824d989c-1679029241f137456b-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--17670462964032__0396d12f-3613-43b3-868a-028e824d989c-1679029241f137456b-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--17670462964032__0396d12f-3613-43b3-868a-028e824d989c-1679029241f137456b-0",
-        "template--17670462964032__0396d12f-3613-43b3-868a-028e824d989c-1679029241f137456b-1",
-        "template--17670462964032__0396d12f-3613-43b3-868a-028e824d989c-1679029241f137456b-2"
-      ],
-      "settings": {
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
     "main",
+    "0396d12f-3613-43b3-868a-028e824d989c",
     "b548a009-ffb3-4d6f-bd5f-ec82feb73b4f",
     "71e800cc-ed14-42f8-a207-a91245aa6f24",
     "65736152-a70f-429c-85c8-3ab306b296ba",
@@ -368,7 +370,6 @@
     "a4accaa5-4cb3-4169-900c-e40f52f11263",
     "d46c54cf-a164-4745-a8a2-cb61f7b531dd",
     "dcc2d7dd-c15a-454e-a8fe-de66be70c9cb",
-    "becd00f0-5843-4d13-b978-c6be2931dcd0",
-    "0396d12f-3613-43b3-868a-028e824d989c"
+    "becd00f0-5843-4d13-b978-c6be2931dcd0"
   ]
 }
