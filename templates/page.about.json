@@ -13,6 +13,7 @@
       "blocks": {
         "template--17670462964032__0396d12f-3613-43b3-868a-028e824d989c-1679029241f137456b-0": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "Image with text",
             "heading_size": "h1"
@@ -21,12 +22,13 @@
         "template--17670462964032__0396d12f-3613-43b3-868a-028e824d989c-1679029241f137456b-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Aeromark can create & develop your signature scent that will bring your brand, product, or space to life.<\/p><p><\/p><p>We can customize your unique scent with an added benefit of anti-bacterial & anti-viral, or anti-smoke actives.<\/p><p><\/p><p>Our diffuser machines have many automated functions, allowing for a low maintenance operations & removing any need for a learning curve to scent your space. The formulation of your scent is based on the machine to be used.<\/p><p><\/p><p>Your fragrance satisfaction is our priority.<\/p><p><\/p>",
             "text_style": "body"
           }
         },
         "template--17670462964032__0396d12f-3613-43b3-868a-028e824d989c-1679029241f137456b-2": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Button label",
             "button_link": ""
@@ -43,9 +45,9 @@
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "image_first",
-        "desktop_content_position": "top",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
+        "content_layout": "overlap",
         "color_scheme": "background-1",
         "mobile_content_alignment": "left",
         "padding_top": 36,
