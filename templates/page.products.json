@@ -123,6 +123,50 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "e17415a5-6829-4e7a-a96f-710618aa8ca2": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18336244138304__e17415a5-6829-4e7a-a96f-710618aa8ca2-167929478090c800de-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>\"We customize scents based on your brand image & identity.\"<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18336244138304__e17415a5-6829-4e7a-a96f-710618aa8ca2-167929478090c800de-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "47c2916d-e1d7-4db4-80cc-0acc576bf6b2": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18336244138304__47c2916d-e1d7-4db4-80cc-0acc576bf6b2-167929478090c800de-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>CONTACT US<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18336244138304__47c2916d-e1d7-4db4-80cc-0acc576bf6b2-167929478090c800de-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -130,6 +174,8 @@
     "886db236-9faf-40c7-a2aa-094d1e6c5ceb",
     "4679ca62-0153-4be0-9314-c83f047ef687",
     "14c72083-d6e4-4ae1-a0ca-2cc1238b5eda",
-    "df18137d-cea2-421f-b254-66291063b4d8"
+    "df18137d-cea2-421f-b254-66291063b4d8",
+    "e17415a5-6829-4e7a-a96f-710618aa8ca2",
+    "47c2916d-e1d7-4db4-80cc-0acc576bf6b2"
   ]
 }
