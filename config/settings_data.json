@@ -153,7 +153,7 @@
       "header": {
         "type": "header",
         "custom_css": [
-          "span {\/* font-size: 2rem; *\/}",
+          "a.header__menu-item.list-menu__item.link.link--text.focus-inset {font-size: 2rem;}",
           "li {margin: 10px;}"
         ],
         "settings": {
