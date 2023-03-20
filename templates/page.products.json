@@ -130,7 +130,7 @@
         "template--18336244138304__e17415a5-6829-4e7a-a96f-710618aa8ca2-167929478090c800de-1": {
           "type": "text",
           "settings": {
-            "text": "<p>\"We customize scents based on your brand image & identity.\"<\/p>"
+            "text": "<p><strong>\"We customize scents based on your brand image & identity.\"<\/strong><\/p>"
           }
         }
       },
@@ -152,7 +152,7 @@
         "template--18336244138304__47c2916d-e1d7-4db4-80cc-0acc576bf6b2-167929478090c800de-1": {
           "type": "text",
           "settings": {
-            "text": "<p>CONTACT US<\/p>"
+            "text": "<p><strong>CONTACT US<\/strong><\/p>"
           }
         }
       },
