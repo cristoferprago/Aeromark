@@ -124,7 +124,7 @@
       ],
       "settings": {
         "heading": "Other Scents",
-        "heading_size": "h2",
+        "heading_size": "h1",
         "products_to_show": 10,
         "columns_desktop": 5,
         "color_scheme": "background-1",
