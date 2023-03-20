@@ -3012,8 +3012,8 @@ button.slider-button.slider-button--next, button.slider-button.slider-button--pr
 } */
 
 @media only screen and (max-width: 600px) {
-  .image-with-text1 {
+  div#image-with-text1\ ImageWithText--template--17670462964032__0396d12f-3613-43b3-868a-028e824d989c {
     width: 100% !important;
     margin: 0 !important;
-  }
+}
 }
