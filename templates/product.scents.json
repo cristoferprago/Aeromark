@@ -119,6 +119,9 @@
     },
     "product-recommendations": {
       "type": "product-recommendations",
+      "custom_css": [
+        "h2.product-recommendations__heading.h2 {text-align: center;}"
+      ],
       "settings": {
         "heading": "Other Scents",
         "heading_size": "h2",
