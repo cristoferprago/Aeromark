@@ -40,6 +40,9 @@
         "template--17670462964032__0396d12f-3613-43b3-868a-028e824d989c-1679029241f137456b-1",
         "template--17670462964032__0396d12f-3613-43b3-868a-028e824d989c-1679029241f137456b-2"
       ],
+      "custom_css": [
+        "p {text-align: justify;}"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/AERO_LOGO_with_Chemworld.png",
         "height": "adapt",
