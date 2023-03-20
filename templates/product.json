@@ -153,6 +153,9 @@
         "template--17670463095104__f21eee9f-c933-476f-b4df-bdcfcda7d6ab-167929512057cc704e-1",
         "template--17670463095104__f21eee9f-c933-476f-b4df-bdcfcda7d6ab-167929512057cc704e-2"
       ],
+      "custom_css": [
+        ".title-wrapper-with-link.title-wrapper--self-padded-mobile.title-wrapper--no-top-margin {justify-content: center;}"
+      ],
       "settings": {
         "title": "UNIQUE PRODUCT FEATURES",
         "heading_size": "h1",
