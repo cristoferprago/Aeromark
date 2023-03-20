@@ -3010,3 +3010,10 @@ ul.list-menu.list-menu--inline li a span{
 button.slider-button.slider-button--next, button.slider-button.slider-button--prev{
     display: none;
 } */
+
+@media only screen and (max-width: 600px) {
+  .image-with-text1 {
+    width: 100%;
+    margin: 0;
+  }
+}
