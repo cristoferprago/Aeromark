@@ -138,15 +138,29 @@
           "settings": {
             "text": "<p>A ir scenting leader in the Philippines<br\/>E xpertise in the Fragrance Formulation development<br\/>R eliable, advanced, and stylish air-scenting equipments<br\/>O utstanding turn-around time for new scent requests<br\/>M anufactures signature scents in its own facilities<br\/>A ccredited importer from the world's Top Fragrance Houses<br\/>R ecommended & trusted by prestigious commercial establishments<br\/>K eeps customers happy<\/p>"
           }
+        },
+        "487c9713-33a6-4193-b971-a40aba48bbdc": {
+          "type": "text",
+          "settings": {
+            "text": "<p>E xpertise in the Fragrance Formulation development<\/p>"
+          }
+        },
+        "4f434713-9b7e-4d71-9378-14f1d99c18ea": {
+          "type": "text",
+          "settings": {
+            "text": "<p>R eliable, advanced, and stylish air-scenting equipments<\/p>"
+          }
         }
       },
       "block_order": [
         "template--17670462964032__65736152-a70f-429c-85c8-3ab306b296ba-1678765944dc321baf-0",
-        "template--17670462964032__65736152-a70f-429c-85c8-3ab306b296ba-1678765944dc321baf-1"
+        "template--17670462964032__65736152-a70f-429c-85c8-3ab306b296ba-1678765944dc321baf-1",
+        "487c9713-33a6-4193-b971-a40aba48bbdc",
+        "4f434713-9b7e-4d71-9378-14f1d99c18ea"
       ],
       "custom_css": [
         "h2.rich-text__heading.rte.h1 {text-align: center; font-weight: bold;}",
-        "p::first-letter{font-weight: bold;}"
+        "p::first-letter {font-weight: bold;}"
       ],
       "settings": {
         "desktop_content_position": "center",
