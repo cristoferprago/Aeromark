@@ -136,7 +136,7 @@
         "template--17670462964032__65736152-a70f-429c-85c8-3ab306b296ba-1678765944dc321baf-1": {
           "type": "text",
           "settings": {
-            "text": "<p>A ir scenting leader in the Philippines<br\/>E xpertise in the Fragrance Formulation development<br\/>R eliable, advanced, and stylish air-scenting equipments<br\/>O utstanding turn-around time for new scent requests<br\/>M anufactures signature scents in its own facilities<br\/>A ccredited importer from the world's Top Fragrance Houses<br\/>R ecommended & trusted by prestigious commercial establishments<br\/>K eeps customers happy<\/p>"
+            "text": "<p>A ir scenting leader in the Philippines<\/p>"
           }
         },
         "487c9713-33a6-4193-b971-a40aba48bbdc": {
@@ -150,13 +150,48 @@
           "settings": {
             "text": "<p>R eliable, advanced, and stylish air-scenting equipments<\/p>"
           }
+        },
+        "f3dd1b77-e76b-40e3-9aab-edd129a1f9ac": {
+          "type": "text",
+          "settings": {
+            "text": "<p>O utstanding turn-around time for new scent requests<\/p>"
+          }
+        },
+        "f17c5146-0114-4804-95a1-d0f9282a9fde": {
+          "type": "text",
+          "settings": {
+            "text": "<p>M anufactures signature scents in its own facilities<\/p>"
+          }
+        },
+        "d6c49613-2fa1-4d12-84a8-3acc3910accc": {
+          "type": "text",
+          "settings": {
+            "text": "<p>A ccredited importer from the world's Top Fragrance Houses<\/p>"
+          }
+        },
+        "4c26474f-e65a-4d35-83e3-9e72f2e805d8": {
+          "type": "text",
+          "settings": {
+            "text": "<p>R ecommended & trusted by prestigious commercial establishments<\/p>"
+          }
+        },
+        "61bc94f1-d6f4-400e-8fbc-8c72060ebe16": {
+          "type": "text",
+          "settings": {
+            "text": "<p>K eeps customers happy<\/p>"
+          }
         }
       },
       "block_order": [
         "template--17670462964032__65736152-a70f-429c-85c8-3ab306b296ba-1678765944dc321baf-0",
         "template--17670462964032__65736152-a70f-429c-85c8-3ab306b296ba-1678765944dc321baf-1",
         "487c9713-33a6-4193-b971-a40aba48bbdc",
-        "4f434713-9b7e-4d71-9378-14f1d99c18ea"
+        "4f434713-9b7e-4d71-9378-14f1d99c18ea",
+        "f3dd1b77-e76b-40e3-9aab-edd129a1f9ac",
+        "f17c5146-0114-4804-95a1-d0f9282a9fde",
+        "d6c49613-2fa1-4d12-84a8-3acc3910accc",
+        "4c26474f-e65a-4d35-83e3-9e72f2e805d8",
+        "61bc94f1-d6f4-400e-8fbc-8c72060ebe16"
       ],
       "custom_css": [
         "h2.rich-text__heading.rte.h1 {text-align: center; font-weight: bold;}",
