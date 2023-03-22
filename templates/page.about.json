@@ -145,7 +145,8 @@
         "template--17670462964032__65736152-a70f-429c-85c8-3ab306b296ba-1678765944dc321baf-1"
       ],
       "custom_css": [
-        "h2.rich-text__heading.rte.h1 {text-align: center; font-weight: bold;}"
+        "h2.rich-text__heading.rte.h1 {text-align: center; font-weight: bold;}",
+        "p::first-letter{font-weight: bold;}"
       ],
       "settings": {
         "desktop_content_position": "center",
