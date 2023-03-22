@@ -195,7 +195,8 @@
       ],
       "custom_css": [
         "h2.rich-text__heading.rte.h1 {text-align: center; font-weight: bold;}",
-        "p::first-letter {font-weight: bold;}"
+        "p::first-letter {font-weight: bold;}",
+        ".rich-text__text.rte {margin-bottom: -2rem;}"
       ],
       "settings": {
         "desktop_content_position": "center",
