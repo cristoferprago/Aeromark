@@ -270,28 +270,11 @@
         "padding_top": 36,
         "padding_bottom": 28
       }
-    },
-    "446f879a-0794-490c-8aec-7273b66774b8": {
-      "type": "image-banner",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/3d-rendering-luxury-classic-wall-in-living-room-an-2021-10-06-21-45-58-utc.png",
-        "image_overlay_opacity": 0,
-        "image_height": "small",
-        "adapt_height_first_image": false,
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
-      }
     }
   },
   "order": [
     "main",
     "f21eee9f-c933-476f-b4df-bdcfcda7d6ab",
-    "product-recommendations",
-    "446f879a-0794-490c-8aec-7273b66774b8"
+    "product-recommendations"
   ]
 }
