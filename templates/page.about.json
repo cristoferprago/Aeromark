@@ -240,6 +240,17 @@
         "padding_bottom": 52
       }
     },
+    "c57f98b1-38c9-4cdb-af33-69c78ef85818": {
+      "type": "company-milestone",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "a4accaa5-4cb3-4169-900c-e40f52f11263": {
       "type": "rich-text",
       "blocks": {
@@ -307,48 +318,6 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
-    },
-    "c57f98b1-38c9-4cdb-af33-69c78ef85818": {
-      "type": "company-milestone",
-      "blocks": {
-        "template--17670462964032__c57f98b1-38c9-4cdb-af33-69c78ef85818-1679539928b3b0f9fa-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Talk about your brand<\/p>",
-            "heading_size": "h1"
-          }
-        },
-        "template--17670462964032__c57f98b1-38c9-4cdb-af33-69c78ef85818-1679539928b3b0f9fa-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
-        "template--17670462964032__c57f98b1-38c9-4cdb-af33-69c78ef85818-1679539928b3b0f9fa-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--17670462964032__c57f98b1-38c9-4cdb-af33-69c78ef85818-1679539928b3b0f9fa-0",
-        "template--17670462964032__c57f98b1-38c9-4cdb-af33-69c78ef85818-1679539928b3b0f9fa-1",
-        "template--17670462964032__c57f98b1-38c9-4cdb-af33-69c78ef85818-1679539928b3b0f9fa-2"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
@@ -358,8 +327,8 @@
     "71e800cc-ed14-42f8-a207-a91245aa6f24",
     "65736152-a70f-429c-85c8-3ab306b296ba",
     "9bbc2692-a9e6-498b-8908-801c1028115b",
+    "c57f98b1-38c9-4cdb-af33-69c78ef85818",
     "a4accaa5-4cb3-4169-900c-e40f52f11263",
-    "d46c54cf-a164-4745-a8a2-cb61f7b531dd",
-    "c57f98b1-38c9-4cdb-af33-69c78ef85818"
+    "d46c54cf-a164-4745-a8a2-cb61f7b531dd"
   ]
 }
