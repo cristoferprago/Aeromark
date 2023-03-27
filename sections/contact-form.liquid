@@ -13,6 +13,9 @@
     }
   }
 
+  .container{
+    position: relative;
+  }
   .contact-border{
     border: 2px solid black;
     padding: 20px;
@@ -35,7 +38,7 @@
 }
 {%- endstyle -%}
 
-<div class=" color-{{ section.settings.color_scheme }} gradient">
+<div class="container color-{{ section.settings.color_scheme }} gradient">
   <div class="contact-container">
   </div>
   <div class="contact-border contact page-width page-width--narrow section-{{ section.id }}-padding">
