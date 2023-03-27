@@ -150,6 +150,9 @@
       "block_order": [
         "template--18393813647680__fa4e17ee-be45-4eaf-96a7-6d849d8ebb12-1679902553b31e2c33-1"
       ],
+      "custom_css": [
+        "strong {font-size: 2rem;}"
+      ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -172,13 +175,16 @@
       "block_order": [
         "template--18393813647680__3bc7d3be-e8af-4656-a106-a72470093f7f-1679902553b31e2c33-1"
       ],
+      "custom_css": [
+        "strong {font-size: 2rem;}"
+      ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 0,
-        "padding_bottom": 0
+        "padding_bottom": 28
       }
     }
   },
