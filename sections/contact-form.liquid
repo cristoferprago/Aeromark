@@ -18,14 +18,15 @@
     padding: 20px;
     background: white;
     height: 600px;
+    position: absolute;
   }
 
-  .contact-bgcontainer{
+    .contact-bgcontainer{
     
     background-image: url(https://cdn.shopify.com/s/files/1/0707/6659/2320/files/Layer_1133.png?v=1679885591);
     background-repeat: no-repeat;
     background-position: center;
-    position: relative;
+    position: absolute;
     height: 500px;
   }
 
@@ -33,6 +34,11 @@
     display: flex;
     justify-content: center;
 }
+
+  .contact-container{
+    position: position: relative;
+  }
+
 {%- endstyle -%}
 
 <div class="contact-container color-{{ section.settings.color_scheme }} gradient">
