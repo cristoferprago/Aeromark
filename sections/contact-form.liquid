@@ -18,7 +18,6 @@
     padding: 20px;
     background: white;
     height: 600px;
-    
   }
 
   .contact-container{
@@ -26,8 +25,8 @@
     background-image: url(https://cdn.shopify.com/s/files/1/0707/6659/2320/files/Layer_1133.png?v=1679885591);
     background-repeat: no-repeat;
     background-position: center;
-    margin: 50px 0px;
-/*     height: 500px; */
+    position: relative;
+    height: 500px;
   }
 
   .contact__button {
@@ -38,7 +37,7 @@
 
 <div class="color-{{ section.settings.color_scheme }} gradient">
   <div class="contact-container">
-  
+  </div>
   
   <div class="contact-border contact page-width page-width--narrow section-{{ section.id }}-padding">
     {%- if section.settings.heading != blank -%}
@@ -142,7 +141,6 @@
         </button>
       </div>
     {%- endform -%}
-    </div>
   </div>
 </div>
 
