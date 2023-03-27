@@ -17,9 +17,13 @@
     border: 2px solid black;
     padding: 20px;
   }
+
+  .contact-container{
+    
+  }
 {%- endstyle -%}
 
-<div class="color-{{ section.settings.color_scheme }} gradient">
+<div class="contact-container color-{{ section.settings.color_scheme }} gradient">
   <div class="contact-border contact page-width page-width--narrow section-{{ section.id }}-padding">
     {%- if section.settings.heading != blank -%}
       <h2 class="title title-wrapper--no-top-margin {{ section.settings.heading_size }}">{{ section.settings.heading | escape }}</h2>
