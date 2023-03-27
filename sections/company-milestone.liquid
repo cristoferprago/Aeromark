@@ -44,6 +44,15 @@
     align-items: center;
   }
 
+  @media only screen and (max-width: 600px){
+    .hexagon-container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+}
+  }
+
   @media screen and (min-width: 750px) {
     .section-{{ section.id }}-padding {
       padding-top: {{ section.settings.padding_top }}px;
