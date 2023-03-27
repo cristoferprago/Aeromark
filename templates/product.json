@@ -303,7 +303,7 @@
         "template--17670463095104__2a04ed9b-dda4-42f2-8c42-410b9e15616b-1679903661591d0ab8-0"
       ],
       "custom_css": [
-        ".image-with-text__grid.grid.grid--gapless.grid--1-col.grid--2-col-tablet {margin-top: -130px;}",
+        ".image-with-text__grid.grid.grid--gapless.grid--1-col.grid--2-col-tablet {margin-top: -150px;}",
         ".image-with-text__media.image-with-text__media--adapt.gradient.color-background-1.global-media-settings.media {background: transparent;}",
         "div#ImageWithText--template--17670463095104__2a04ed9b-dda4-42f2-8c42-410b9e15616b {background: transparent;}",
         "h2.image-with-text__heading.h1 {padding-top: 70px;}"
