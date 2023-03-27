@@ -136,10 +136,33 @@
         "padding_top": 36,
         "padding_bottom": 28
       }
+    },
+    "fa4e17ee-be45-4eaf-96a7-6d849d8ebb12": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18393813647680__fa4e17ee-be45-4eaf-96a7-6d849d8ebb12-1679902553b31e2c33-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>\"We customize scents based on your brand image & identity.\"<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18393813647680__fa4e17ee-be45-4eaf-96a7-6d849d8ebb12-1679902553b31e2c33-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "main",
-    "product-recommendations"
+    "product-recommendations",
+    "fa4e17ee-be45-4eaf-96a7-6d849d8ebb12"
   ]
 }
