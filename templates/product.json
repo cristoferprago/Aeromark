@@ -234,7 +234,8 @@
         "23ae0f8f-785d-42ad-b102-aaf8c8010ac2"
       ],
       "custom_css": [
-        ".title-wrapper-with-link.title-wrapper--self-padded-mobile.title-wrapper--no-top-margin {justify-content: center;}"
+        ".title-wrapper-with-link.title-wrapper--self-padded-mobile.title-wrapper--no-top-margin {justify-content: center;}",
+        "h2.title.h1 {text-align: center;}"
       ],
       "settings": {
         "title": "UNIQUE PRODUCT FEATURES",
