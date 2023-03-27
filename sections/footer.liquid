@@ -29,7 +29,11 @@
     justify-content: center
   }
 
-
+  @media only screen and (max-width: 600px){
+    .footer-contact{
+      flex-direction: column;
+    }
+  }
 
   @media screen and (min-width: 750px) {
     .footer {
@@ -41,9 +45,7 @@
       padding-bottom: {{ section.settings.padding_bottom }}px;
     }
 
-    .footer-contact{
-      flex-direction: column;
-    }
+    
   }
 {%- endstyle -%}
 
