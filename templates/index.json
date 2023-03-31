@@ -60,14 +60,14 @@
         "4d64bbf0-a3fc-4744-a5af-2ac3fdf8090f": {
           "type": "heading",
           "settings": {
-            "heading": "<p>THIS IS AEROMARK.<\/p>",
+            "heading": "<p>THIS IS AEROMARK<\/p>",
             "heading_size": "h1"
           }
         },
         "5ec2aad0-0a79-4ed0-9aec-3bf115307ed8": {
           "type": "text",
           "settings": {
-            "text": "<p>Air-scenting solutions for malls, hotel, and corporate establishments<br\/>Your fragrance satisfaction is our priority<\/p>"
+            "text": "<p>Aeromark can create & develop your signature scent that will bring your brand, product, and space to life.<\/p>"
           }
         },
         "template--17552601776448__d079a440-c0ae-4e71-8457-f53b3208222f-1673420737369da84f-2": {
@@ -88,7 +88,8 @@
         "template--17552601776448__d079a440-c0ae-4e71-8457-f53b3208222f-1673420737369da84f-2"
       ],
       "custom_css": [
-        "h2.rich-text__heading.rte.h1 {font-weight: bold;}"
+        "h2.rich-text__heading.rte.h1 {font-weight: bold;}",
+        "body {background-color: #E6E6FA;}"
       ],
       "settings": {
         "desktop_content_position": "center",
