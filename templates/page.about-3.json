@@ -1,0 +1,340 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "0396d12f-3613-43b3-868a-028e824d989c": {
+      "type": "image-with-text1",
+      "blocks": {
+        "template--17670462964032__0396d12f-3613-43b3-868a-028e824d989c-1679029241f137456b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "THIS IS AEROMARK",
+            "heading_size": "h1"
+          }
+        },
+        "template--17670462964032__0396d12f-3613-43b3-868a-028e824d989c-1679029241f137456b-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Aeromark can create & develop your signature scent that will bring your brand, product, or space to life.<\/p><p>Aeromark can customize your unique scent with an added benefit of Anti-bacterial & Anti-viral actives.<\/p><p>Our air-scenting machines have many automated functions, allowing  for a low maintenance experience & removing any learning curve to scent your space. The formulation of your scent is based on the technology of the machine.<\/p><p>Your fragrance satisfaction is our priority. Aeromark have more than 50 active partners all over the Philippines since 2015.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--17670462964032__0396d12f-3613-43b3-868a-028e824d989c-1679029241f137456b-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17670462964032__0396d12f-3613-43b3-868a-028e824d989c-1679029241f137456b-0",
+        "template--17670462964032__0396d12f-3613-43b3-868a-028e824d989c-1679029241f137456b-1",
+        "template--17670462964032__0396d12f-3613-43b3-868a-028e824d989c-1679029241f137456b-2"
+      ],
+      "custom_css": [
+        "p {text-align: justify;}",
+        "h2.image-with-text__heading.h1 {font-weight: bold;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/AERO_LOGO_with_Chemworld.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "b548a009-ffb3-4d6f-bd5f-ec82feb73b4f": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "template--17670462964032__b548a009-ffb3-4d6f-bd5f-ec82feb73b4f-1678765961dd61b6f0-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "THIS IS AEROMARK.",
+            "heading_size": "h1"
+          }
+        },
+        "template--17670462964032__b548a009-ffb3-4d6f-bd5f-ec82feb73b4f-1678765961dd61b6f0-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Aeromark can create & develop your signature scent that will bring your brand, product, or space to life.<\/p><p><\/p><p>We can customize your unique scent with an added benefit of anti-bacterial & anti-viral, or anti-smoke actives.<\/p><p><\/p><p>Our diffuser machines have many automated functions, allowing for a low maintenance operations & removing any need for a learning curve to scent your space. The formulation of your scent is based on the machine to be used.<\/p><p><\/p><p>Your fragrance satisfaction is our priority.<\/p><p><\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--17670462964032__b548a009-ffb3-4d6f-bd5f-ec82feb73b4f-1678765961dd61b6f0-0",
+        "template--17670462964032__b548a009-ffb3-4d6f-bd5f-ec82feb73b4f-1678765961dd61b6f0-1"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/AERO_LOGO_with_Chemworld.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "71e800cc-ed14-42f8-a207-a91245aa6f24": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "template--17670462964032__71e800cc-ed14-42f8-a207-a91245aa6f24-1678765944dc321baf-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our diffuser machines have many automated functions, allowing for a low maintenance operations & removing any need for a learning curve to scent your space. The formulation of your scent is based on the machine to be used.<\/p><p><\/p><p>Your fragrance satisfaction is our priority.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17670462964032__71e800cc-ed14-42f8-a207-a91245aa6f24-1678765944dc321baf-1"
+      ],
+      "custom_css": [
+        "p {text-align: justify;}",
+        ".isolate {top-margin: 50px;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 52
+      }
+    },
+    "65736152-a70f-429c-85c8-3ab306b296ba": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17670462964032__65736152-a70f-429c-85c8-3ab306b296ba-1678765944dc321baf-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>WHY CHOOSE AEROMARK<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--17670462964032__65736152-a70f-429c-85c8-3ab306b296ba-1678765944dc321baf-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>A ir scenting leader in the Philippines<\/p>"
+          }
+        },
+        "487c9713-33a6-4193-b971-a40aba48bbdc": {
+          "type": "text",
+          "settings": {
+            "text": "<p>E xpertise in the Fragrance Formulation development<\/p>"
+          }
+        },
+        "4f434713-9b7e-4d71-9378-14f1d99c18ea": {
+          "type": "text",
+          "settings": {
+            "text": "<p>R eliable, advanced, and stylish air-scenting equipments<\/p>"
+          }
+        },
+        "f3dd1b77-e76b-40e3-9aab-edd129a1f9ac": {
+          "type": "text",
+          "settings": {
+            "text": "<p>O utstanding turn-around time for new scent requests<\/p>"
+          }
+        },
+        "f17c5146-0114-4804-95a1-d0f9282a9fde": {
+          "type": "text",
+          "settings": {
+            "text": "<p>M anufactures signature scents in its own facilities<\/p>"
+          }
+        },
+        "d6c49613-2fa1-4d12-84a8-3acc3910accc": {
+          "type": "text",
+          "settings": {
+            "text": "<p>A ccredited importer from the world's Top Fragrance Houses<\/p>"
+          }
+        },
+        "4c26474f-e65a-4d35-83e3-9e72f2e805d8": {
+          "type": "text",
+          "settings": {
+            "text": "<p>R ecommended & trusted by prestigious commercial establishments<\/p>"
+          }
+        },
+        "61bc94f1-d6f4-400e-8fbc-8c72060ebe16": {
+          "type": "text",
+          "settings": {
+            "text": "<p>K eeps customers happy<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17670462964032__65736152-a70f-429c-85c8-3ab306b296ba-1678765944dc321baf-0",
+        "template--17670462964032__65736152-a70f-429c-85c8-3ab306b296ba-1678765944dc321baf-1",
+        "487c9713-33a6-4193-b971-a40aba48bbdc",
+        "4f434713-9b7e-4d71-9378-14f1d99c18ea",
+        "f3dd1b77-e76b-40e3-9aab-edd129a1f9ac",
+        "f17c5146-0114-4804-95a1-d0f9282a9fde",
+        "d6c49613-2fa1-4d12-84a8-3acc3910accc",
+        "4c26474f-e65a-4d35-83e3-9e72f2e805d8",
+        "61bc94f1-d6f4-400e-8fbc-8c72060ebe16"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "9bbc2692-a9e6-498b-8908-801c1028115b": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17670462964032__9bbc2692-a9e6-498b-8908-801c1028115b-1678765944dc321baf-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>BEHIND THE SUCCESS OF AEROMARK<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--17670462964032__9bbc2692-a9e6-498b-8908-801c1028115b-1678765944dc321baf-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Aeromark's strong performance in the air-scenting business is born out of the over 38 years of experience and worldwide fragrance resources of its parent company, Chemworld Marketing Corp.<\/p><p><\/p><p>Chemworld initially focused on distribution of specialty chemicals in the personal care and food industries when it started in 1985.<\/p><p><\/p><p>With its reputation as a reliable and trusted source of specialty ingredients, Chemworld added fragrances and flavours from the top fragrance houses in the world, to its product line.<\/p><p><\/p><p>Chemworld is an active member of Chamber of Cosmetics Industry of the Philippines Inc. and Philippine Society for Cosmetic Science Inc.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17670462964032__9bbc2692-a9e6-498b-8908-801c1028115b-1678765944dc321baf-0",
+        "template--17670462964032__9bbc2692-a9e6-498b-8908-801c1028115b-1678765944dc321baf-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "c57f98b1-38c9-4cdb-af33-69c78ef85818": {
+      "type": "company-milestone",
+      "custom_css": [
+        "h1 {font-weight: bold;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "a4accaa5-4cb3-4169-900c-e40f52f11263": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17670462964032__a4accaa5-4cb3-4169-900c-e40f52f11263-1678765944dc321baf-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>HAVE YOUR OWN SIGNATURE SCENT<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--17670462964032__a4accaa5-4cb3-4169-900c-e40f52f11263-1678765944dc321baf-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The development and creation of your scent iddentity is a very detailed & personalized process. During the customization process, all aspectss of your business are taken into consideration: their history, customers, goals & the desired emotional respone.<\/p><p><\/p><p>These are all interpreted & translated into a scent that represents your brand.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17670462964032__a4accaa5-4cb3-4169-900c-e40f52f11263-1678765944dc321baf-0",
+        "template--17670462964032__a4accaa5-4cb3-4169-900c-e40f52f11263-1678765944dc321baf-1"
+      ],
+      "custom_css": [
+        "h2.rich-text__heading.rte.h1 {font-weight: bold; text-align: center;}",
+        "p {text-align: justify;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "d46c54cf-a164-4745-a8a2-cb61f7b531dd": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17670462964032__d46c54cf-a164-4745-a8a2-cb61f7b531dd-1678765944dc321baf-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>WHAT IS HVAC SCENTING?<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--17670462964032__d46c54cf-a164-4745-a8a2-cb61f7b531dd-1678765944dc321baf-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>HVAC is short for Heating, Ventilation and Air Conditioning. HVAC scenting is when a scent is diffused through the central cooling system. This is accomplished by connecting a scent diffuser to an existing HVAC system where it then disperses the aroma throught your facility.<\/p><p>Diffusing scent through your HVAC system provides powerful, even, and efficient scenting for large spaces.<\/p><p><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17670462964032__d46c54cf-a164-4745-a8a2-cb61f7b531dd-1678765944dc321baf-0",
+        "template--17670462964032__d46c54cf-a164-4745-a8a2-cb61f7b531dd-1678765944dc321baf-1"
+      ],
+      "custom_css": [
+        "h2.rich-text__heading.rte.h1 {font-weight: bold;}",
+        "p {text-align: justify;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "380bad87-3a92-4a6f-9f19-d244361e70ed": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "{% style %}\na{\n text-decoration: none;\n color: #292E34;\n font-weight: bold;\n}\n{% endstyle %}\n<div class=\"page-width\">\n\n <a href=\"https:\/\/aeromark.myshopify.com\/pages\/about-2\">Next<\/a>\n<\/div>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "0396d12f-3613-43b3-868a-028e824d989c",
+    "b548a009-ffb3-4d6f-bd5f-ec82feb73b4f",
+    "71e800cc-ed14-42f8-a207-a91245aa6f24",
+    "65736152-a70f-429c-85c8-3ab306b296ba",
+    "9bbc2692-a9e6-498b-8908-801c1028115b",
+    "c57f98b1-38c9-4cdb-af33-69c78ef85818",
+    "a4accaa5-4cb3-4169-900c-e40f52f11263",
+    "d46c54cf-a164-4745-a8a2-cb61f7b531dd",
+    "380bad87-3a92-4a6f-9f19-d244361e70ed"
+  ]
+}
