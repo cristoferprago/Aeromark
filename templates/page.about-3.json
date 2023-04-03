@@ -144,10 +144,10 @@
         "padding_bottom": 52
       }
     },
-    "380bad87-3a92-4a6f-9f19-d244361e70ed": {
+    "d2888569-7e34-48dd-b3ae-520274076745": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "{% style %}\na{\n text-decoration: none;\n color: #292E34;\n font-weight: bold;\n}\n{% endstyle %}\n<div class=\"page-width\">\n\n <a href=\"https:\/\/aeromark.myshopify.com\/pages\/about-2\">Next<\/a>\n<\/div>",
+        "custom_liquid": "{% style %}\n.bn-button{\n text-decoration: none;\n color: #292E34;\n font-weight: bold;\nmargin: 20px;\n}\n{% endstyle %}\n<div class=\"page-width\">\n <a class=\"bn-button\"\nhref=\"https:\/\/aeromark.myshopify.com\/pages\/about-2\">Back<\/a>\n\n<\/div>",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
@@ -160,6 +160,6 @@
     "71e800cc-ed14-42f8-a207-a91245aa6f24",
     "a4accaa5-4cb3-4169-900c-e40f52f11263",
     "d46c54cf-a164-4745-a8a2-cb61f7b531dd",
-    "380bad87-3a92-4a6f-9f19-d244361e70ed"
+    "d2888569-7e34-48dd-b3ae-520274076745"
   ]
 }
