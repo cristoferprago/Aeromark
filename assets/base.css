@@ -3022,3 +3022,8 @@ button.slider-button.slider-button--next, button.slider-button.slider-button--pr
 .product__media.media.media--transparent.gradient.global-media-settings {
     background: transparent;
 }
+
+/* Aeromark BT120 product */
+section#shopify-section-template--18573050544448__main {
+    background: #e6fafb;
+}
