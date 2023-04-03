@@ -174,6 +174,9 @@
       "block_order": [
         "template--17670463258944__5459dbc6-6281-4039-ae2d-7ad24fe9c3b1-1678693090f7bf4055-0"
       ],
+      "custom_css": [
+        ".content-container--full-width:after {background: #e6fafb;}"
+      ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -186,7 +189,7 @@
     "72e7eaf4-2fe9-4252-a875-5b04aef601b1": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div style=\"width: 100%; \">\n<hr style=\"border:1px outset;background-color:black;color:#3300FF;height:4px;width:40%;margin: auto ;\" \/>\n<\/div>",
+        "custom_liquid": "<div class=\"content-container--full-width\" style=\"width: 100%; \">\n<hr style=\"border:1px outset;background-color:black;color:#3300FF;height:4px;width:40%;margin: auto ;\" \/>\n<\/div>",
         "color_scheme": "background-1",
         "padding_top": 0,
         "padding_bottom": 0
@@ -205,6 +208,9 @@
       },
       "block_order": [
         "template--17670463258944__b20b963b-3d8a-4aa4-88b2-04ad72d2919f-167945334026e6a93d-0"
+      ],
+      "custom_css": [
+        ".content-container--full-width:after {background: #e6fafb;}"
       ],
       "settings": {
         "desktop_content_position": "center",
