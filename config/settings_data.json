@@ -188,25 +188,25 @@
               "menu": "shop"
             }
           },
-          "footer-2": {
-            "type": "text",
+          "e3f417cb-8a94-4261-8cf6-9c61ef34272f": {
+            "type": "link_list",
             "settings": {
-              "heading": "Our mission",
-              "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
+              "heading": "Contact Us",
+              "menu": "contact-us"
             }
           },
           "dc190443-4098-4d3d-8043-d75a310b5000": {
             "type": "text",
             "settings": {
-              "heading": "",
-              "subtext": "<p>For product demo please contact us at<\/p>"
+              "heading": "Your fragrance satisfaction is our priority",
+              "subtext": "<p>For product demo please contact us at:<br\/>info@aeromark.ph<br\/>+63 917 860 6443<br\/>+63 917 578  6539<br\/>(02)8405-5749<\/p>"
             }
           }
         },
         "block_order": [
           "footer-0",
           "footer-1",
-          "footer-2",
+          "e3f417cb-8a94-4261-8cf6-9c61ef34272f",
           "dc190443-4098-4d3d-8043-d75a310b5000"
         ],
         "settings": {
