@@ -340,14 +340,15 @@
         "template--17670463095104__d42d47e3-ef9a-4d7e-ac71-e8a1c7b34cba-1679902553b31e2c33-1"
       ],
       "custom_css": [
-        "strong {font-size: 2rem;}"
+        "strong {font-size: 2rem;}",
+        ".content-container--full-width:after {background: #e6fafb; margin-top: -13px;}"
       ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 40,
+        "padding_top": 32,
         "padding_bottom": 48
       }
     }
