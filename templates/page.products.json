@@ -66,6 +66,28 @@
         "padding_bottom": 36
       }
     },
+    "5634fc59-2cf1-42dd-936d-91087c825b99": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18336244138304__5634fc59-2cf1-42dd-936d-91087c825b99-1680513951bc82626a-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>*Price varies on the service provided or purchase product<\/em><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18336244138304__5634fc59-2cf1-42dd-936d-91087c825b99-1680513951bc82626a-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 16
+      }
+    },
     "14c72083-d6e4-4ae1-a0ca-2cc1238b5eda": {
       "type": "image-banner",
       "blocks": {
@@ -179,6 +201,7 @@
     "main",
     "886db236-9faf-40c7-a2aa-094d1e6c5ceb",
     "4679ca62-0153-4be0-9314-c83f047ef687",
+    "5634fc59-2cf1-42dd-936d-91087c825b99",
     "14c72083-d6e4-4ae1-a0ca-2cc1238b5eda",
     "df18137d-cea2-421f-b254-66291063b4d8",
     "e17415a5-6829-4e7a-a96f-710618aa8ca2",
