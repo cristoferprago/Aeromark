@@ -1,5 +1,28 @@
 {
   "sections": {
+    "8eebaf7c-a53f-4796-811f-17448028471e": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18573050544448__8eebaf7c-a53f-4796-811f-17448028471e-168051600671a5b629-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>Aeromark BT120<\/strong><\/p>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--18573050544448__8eebaf7c-a53f-4796-811f-17448028471e-168051600671a5b629-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "a99495f2-9c6b-4e82-b31a-34063fcecef5": {
       "type": "image-banner1",
       "settings": {
@@ -330,6 +353,7 @@
     }
   },
   "order": [
+    "8eebaf7c-a53f-4796-811f-17448028471e",
     "a99495f2-9c6b-4e82-b31a-34063fcecef5",
     "2a04ed9b-dda4-42f2-8c42-410b9e15616b",
     "f21eee9f-c933-476f-b4df-bdcfcda7d6ab",
