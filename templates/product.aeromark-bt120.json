@@ -271,7 +271,7 @@
         "share"
       ],
       "custom_css": [
-        "shopify-section section {background: #e6fafb;}"
+        "section#MainProduct-template--18573050544448__main {background: #e6fafb;}"
       ],
       "settings": {
         "enable_sticky_info": true,
