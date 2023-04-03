@@ -189,7 +189,7 @@
     "72e7eaf4-2fe9-4252-a875-5b04aef601b1": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div class=\"content-container--full-width\" style=\"width: 100%; \">\n<hr style=\"border:1px outset;background-color:black;color:#3300FF;height:4px;width:40%;margin: auto ;\" \/>\n<\/div>",
+        "custom_liquid": "{% style %}\n.line-container{\nbackground: #e6fafb;\n height: 5px;\nmargin: -10px 0px;\n}\n{% endstyle %}\n\n<div class=\"line-container\" style=\"width: 100%; \">\n<hr style=\"border:1px outset;background-color:black;color:#3300FF;height:4px;width:40%;margin: auto ;\" \/>\n<\/div>",
         "color_scheme": "background-1",
         "padding_top": 0,
         "padding_bottom": 0
