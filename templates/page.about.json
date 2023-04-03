@@ -194,11 +194,6 @@
         "4c26474f-e65a-4d35-83e3-9e72f2e805d8",
         "61bc94f1-d6f4-400e-8fbc-8c72060ebe16"
       ],
-      "custom_css": [
-        "h2.rich-text__heading.rte.h1 {text-align: center; font-weight: bold;}",
-        "p::first-letter {font-weight: bold;}",
-        ".rich-text__text.rte {margin-bottom: -2rem;}"
-      ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "left",
@@ -228,9 +223,6 @@
       "block_order": [
         "template--17670462964032__9bbc2692-a9e6-498b-8908-801c1028115b-1678765944dc321baf-0",
         "template--17670462964032__9bbc2692-a9e6-498b-8908-801c1028115b-1678765944dc321baf-1"
-      ],
-      "custom_css": [
-        "h2.rich-text__heading.rte.h1 {font-weight: bold;}"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -322,6 +314,15 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "380bad87-3a92-4a6f-9f19-d244361e70ed": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "{% style %}\na{\n text-decoration: none;\n color: #292E34;\n font-weight: bold;\n}\n{% endstyle %}\n<div class=\"page-width\">\n\n <a href=\"https:\/\/aeromark.myshopify.com\/pages\/about-2\">Next<\/a>\n<\/div>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -333,6 +334,7 @@
     "9bbc2692-a9e6-498b-8908-801c1028115b",
     "c57f98b1-38c9-4cdb-af33-69c78ef85818",
     "a4accaa5-4cb3-4169-900c-e40f52f11263",
-    "d46c54cf-a164-4745-a8a2-cb61f7b531dd"
+    "d46c54cf-a164-4745-a8a2-cb61f7b531dd",
+    "380bad87-3a92-4a6f-9f19-d244361e70ed"
   ]
 }
