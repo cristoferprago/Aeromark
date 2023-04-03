@@ -3024,6 +3024,7 @@ button.slider-button.slider-button--next, button.slider-button.slider-button--pr
 }
 
 /* Aeromark BT120 product */
-section#shopify-section-template--18573050544448__main {
+section#shopify-section-template--18573050544448__main,
+section#shopify-section-template--18576243884352__main{
     background: #e6fafb;
 }
