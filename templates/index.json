@@ -89,7 +89,7 @@
       ],
       "custom_css": [
         "h2.rich-text__heading.rte.h1 {font-weight: bold;}",
-        ".content-container--full-width:after {left: 0; right: 0; border-radius: 0; background: #e6fafb;}"
+        ".content-container--full-width:after {background: #e6fafb;}"
       ],
       "settings": {
         "desktop_content_position": "center",
