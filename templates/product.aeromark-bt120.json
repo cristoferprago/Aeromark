@@ -270,6 +270,9 @@
         "collapsible-row-3",
         "share"
       ],
+      "custom_css": [
+        "shopify-section section {background: #e6fafb;}"
+      ],
       "settings": {
         "enable_sticky_info": true,
         "media_position": "left",
