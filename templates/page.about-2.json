@@ -123,70 +123,11 @@
         "padding_bottom": 52
       }
     },
-    "a4accaa5-4cb3-4169-900c-e40f52f11263": {
-      "type": "rich-text",
-      "blocks": {
-        "template--17670462964032__a4accaa5-4cb3-4169-900c-e40f52f11263-1678765944dc321baf-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>HAVE YOUR OWN SIGNATURE SCENT<\/p>",
-            "heading_size": "h1"
-          }
-        },
-        "template--17670462964032__a4accaa5-4cb3-4169-900c-e40f52f11263-1678765944dc321baf-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>The development and creation of your scent iddentity is a very detailed & personalized process. During the customization process, all aspectss of your business are taken into consideration: their history, customers, goals & the desired emotional respone.<\/p><p><\/p><p>These are all interpreted & translated into a scent that represents your brand.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--17670462964032__a4accaa5-4cb3-4169-900c-e40f52f11263-1678765944dc321baf-0",
-        "template--17670462964032__a4accaa5-4cb3-4169-900c-e40f52f11263-1678765944dc321baf-1"
-      ],
-      "custom_css": [
-        "h2.rich-text__heading.rte.h1 {font-weight: bold; text-align: center;}",
-        "p {text-align: justify;}"
-      ],
+    "eb80daa5-71dd-4641-a87c-e0dfe6ee89c6": {
+      "type": "custom-liquid",
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
+        "custom_liquid": "{% style %}\na{\n text-decoration: none;\n color: #292E34;\n font-weight: bold;\n}\n{% endstyle %}\n<div class=\"page-width\">\n <a \nhref=\"https:\/\/www.w3schools.com\">Back<\/a>\n\n <a href=\"https:\/\/www.w3schools.com\">Next<\/a>\n<\/div>",
         "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "d46c54cf-a164-4745-a8a2-cb61f7b531dd": {
-      "type": "rich-text",
-      "blocks": {
-        "template--17670462964032__d46c54cf-a164-4745-a8a2-cb61f7b531dd-1678765944dc321baf-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>WHAT IS HVAC SCENTING?<\/p>",
-            "heading_size": "h1"
-          }
-        },
-        "template--17670462964032__d46c54cf-a164-4745-a8a2-cb61f7b531dd-1678765944dc321baf-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>HVAC is short for Heating, Ventilation and Air Conditioning. HVAC scenting is when a scent is diffused through the central cooling system. This is accomplished by connecting a scent diffuser to an existing HVAC system where it then disperses the aroma throught your facility.<\/p><p>Diffusing scent through your HVAC system provides powerful, even, and efficient scenting for large spaces.<\/p><p><\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--17670462964032__d46c54cf-a164-4745-a8a2-cb61f7b531dd-1678765944dc321baf-0",
-        "template--17670462964032__d46c54cf-a164-4745-a8a2-cb61f7b531dd-1678765944dc321baf-1"
-      ],
-      "custom_css": [
-        "h2.rich-text__heading.rte.h1 {font-weight: bold;}",
-        "p {text-align: justify;}"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
       }
@@ -198,7 +139,6 @@
     "71e800cc-ed14-42f8-a207-a91245aa6f24",
     "9bbc2692-a9e6-498b-8908-801c1028115b",
     "c57f98b1-38c9-4cdb-af33-69c78ef85818",
-    "a4accaa5-4cb3-4169-900c-e40f52f11263",
-    "d46c54cf-a164-4745-a8a2-cb61f7b531dd"
+    "eb80daa5-71dd-4641-a87c-e0dfe6ee89c6"
   ]
 }
