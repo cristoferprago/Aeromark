@@ -126,7 +126,7 @@
     "eb80daa5-71dd-4641-a87c-e0dfe6ee89c6": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "{% style %}\na{\n text-decoration: none;\n color: #292E34;\n font-weight: bold;\nmargin: 20px;\n}\n{% endstyle %}\n<div class=\"page-width\">\n <a \nhref=\"https:\/\/aeromark.myshopify.com\/pages\/about\">Back<\/a>\n\n <a href=\"https:\/\/aeromark.myshopify.com\/pages\/about-3\">Next<\/a>\n<\/div>",
+        "custom_liquid": "{% style %}\n.bn-button{\n text-decoration: none;\n color: #292E34;\n font-weight: bold;\nmargin: 20px;\n}\n{% endstyle %}\n<div class=\"page-width\">\n <a class=\"bn-button\"\nhref=\"https:\/\/aeromark.myshopify.com\/pages\/about\">Back<\/a>\n\n <a class=\"bn-button\" href=\"https:\/\/aeromark.myshopify.com\/pages\/about-3\">Next<\/a>\n<\/div>",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
