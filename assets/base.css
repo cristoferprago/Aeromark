@@ -3019,4 +3019,6 @@ button.slider-button.slider-button--next, button.slider-button.slider-button--pr
 }
 
 /* product image */
-
+.product__media.media.media--transparent.gradient.global-media-settings {
+    background: transparent;
+}
