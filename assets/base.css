@@ -3017,3 +3017,8 @@ button.slider-button.slider-button--next, button.slider-button.slider-button--pr
     margin: 0 !important;
 }
 }
+
+/* product image */
+.product__media.media.media--transparent.gradient.global-media-settings {
+    background: transparent;
+}
