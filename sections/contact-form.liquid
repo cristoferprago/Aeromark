@@ -119,6 +119,7 @@
     </div>
     <div>
       <p class="line-item-property__field">
+        <div>
   <label>How may we help you?</label><br>
   <input type="checkbox" id="I-like to get more information. please send me a proposal" hidden-data="How-may we help you?" onchange="fillHidden('How-may we help you?')" value="I like to get more information. please send me a proposal"><label for="I-like to get more information. please send me a proposal">I like to get more information. please send me a proposal</label><br>
   <input type="checkbox" id="I-need a custom-designed scent logo" hidden-data="How-may we help you?" onchange="fillHidden('How-may we help you?')" value="I need a custom-designed scent logo"><label for="I-need a custom-designed scent logo">I need a custom-designed scent logo</label><br>
@@ -126,6 +127,15 @@
   <input type="checkbox" id="I-am interested to buy. please send me a quotation" hidden-data="How-may we help you?" onchange="fillHidden('How-may we help you?')" value="I am interested to buy. please send me a quotation"><label for="I-am interested to buy. please send me a quotation">I am interested to buy. please send me a quotation</label><br>
   <input type="checkbox" id="I-like to set an explaratory meeting. please send representative as soon as possible" hidden-data="How-may we help you?" onchange="fillHidden('How-may we help you?')" value="I like to set an explaratory meeting. please send representative as soon as possible"><label for="I-like to set an explaratory meeting. please send representative as soon as possible">I like to set an explaratory meeting. please send representative as soon as possible</label><br>
   <input type="hidden" id="How-may we help you?" name="properties[How may we help you?]">
+        </div>
+  
+</p>
+    </div>
+    {%- endform -%}
+        
+  </div>
+</div>
+
   <script>
     function fillHidden(hiddenname) {
     var checkboxes = document.querySelectorAll('[hidden-data="'+hiddenname+'"]');
@@ -144,12 +154,6 @@
       }
     }
   </script>
-</p>
-    </div>
-    {%- endform -%}
-        
-  </div>
-</div>
 
 {% schema %}
 {
