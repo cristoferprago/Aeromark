@@ -2,13 +2,86 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "06ce9b22-753e-4e32-81a4-5abfc6cf0945": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--18585047302464__06ce9b22-753e-4e32-81a4-5abfc6cf0945-1680579461f9392758-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How long will it take to process and receive my order?",
+            "icon": "check_mark",
+            "row_content": "<p>Metro Manila- Within 3 working days<br\/>Provincial- Within 7 working days<\/p>",
+            "page": ""
+          }
+        },
+        "template--18585047302464__06ce9b22-753e-4e32-81a4-5abfc6cf0945-1680579461f9392758-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How can I track my order?",
+            "icon": "check_mark",
+            "row_content": "<p>Once you place an order online, you will receive an email confirmation with your order details. Our customer service representative will automatically send your tracking number to your registered mobile number upon schedule of courier pick up within 48 hours<\/p>",
+            "page": ""
+          }
+        },
+        "template--18585047302464__06ce9b22-753e-4e32-81a4-5abfc6cf0945-1680579461f9392758-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How much is shipping?",
+            "icon": "check_mark",
+            "row_content": "<p>Flat rate via Ninja Van:<br\/>Metro Manila: Php 110<br\/>Provincial: Php 260<\/p>",
+            "page": ""
+          }
+        },
+        "template--18585047302464__06ce9b22-753e-4e32-81a4-5abfc6cf0945-1680579461f9392758-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How do I contact customer service?",
+            "icon": "check_mark",
+            "row_content": "<p>You may reach us at:<br\/>info@aeromark.ph<br\/>(02) 8405-5749<\/p>",
+            "page": ""
+          }
+        },
+        "8e854cf4-a03d-4389-a47b-eeaf44b54460": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What forms of payment do you accept?",
+            "icon": "check_mark",
+            "row_content": "<p>You may select Cash on Delivery or pay online through Dragonpay upon checkout.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18585047302464__06ce9b22-753e-4e32-81a4-5abfc6cf0945-1680579461f9392758-0",
+        "template--18585047302464__06ce9b22-753e-4e32-81a4-5abfc6cf0945-1680579461f9392758-1",
+        "template--18585047302464__06ce9b22-753e-4e32-81a4-5abfc6cf0945-1680579461f9392758-2",
+        "template--18585047302464__06ce9b22-753e-4e32-81a4-5abfc6cf0945-1680579461f9392758-3",
+        "8e854cf4-a03d-4389-a47b-eeaf44b54460"
+      ],
+      "settings": {
+        "caption": "FAQS",
+        "heading": "Collapsible content",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "06ce9b22-753e-4e32-81a4-5abfc6cf0945"
   ]
 }
