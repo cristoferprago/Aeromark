@@ -41,6 +41,9 @@
     },
     "4679ca62-0153-4be0-9314-c83f047ef687": {
       "type": "featured-collection",
+      "custom_css": [
+        ".card__inner.color-background-2.gradient.ratio {background: transparent;}"
+      ],
       "settings": {
         "title": "",
         "heading_size": "h1",
