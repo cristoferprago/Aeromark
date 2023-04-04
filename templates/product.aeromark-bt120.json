@@ -190,6 +190,7 @@
     },
     "1a760293-2415-4311-a828-59338901cd83": {
       "type": "image-banner2",
+      "disabled": true,
       "custom_css": [
         ".banner__media {height: 100%; position: absolute; left: 0; top: 0; width: 70%;}",
         ".banner__media {height: 70%;}"
@@ -206,6 +207,15 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
+      }
+    },
+    "3cb01494-5f8d-4a88-9b1c-c4db35e31d6d": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "{% style %}\n.bg{\nwidth: 100%;\nheight: 150px;\nbackground: rgba(235, 210, 210, 0) url(https:\/\/cdn.shopify.com\/s\/files\/1\/0707\/6659\/2320\/files\/Nano_Technology.png?v=1680582153) center center\/contain no-repeat;\n}\n{% endstyle %}\n\n\n<div class=\"bg\" >\n<\/div>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "main": {
@@ -379,6 +389,7 @@
     "2a04ed9b-dda4-42f2-8c42-410b9e15616b",
     "f21eee9f-c933-476f-b4df-bdcfcda7d6ab",
     "1a760293-2415-4311-a828-59338901cd83",
+    "3cb01494-5f8d-4a88-9b1c-c4db35e31d6d",
     "main",
     "product-recommendations",
     "d42d47e3-ef9a-4d7e-ac71-e8a1c7b34cba"
