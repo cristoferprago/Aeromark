@@ -16,6 +16,7 @@
 
 <div class="color-{{ section.settings.color_scheme }} gradient">
   <div class="contact page-width page-width--narrow section-{{ section.id }}-padding">
+    <div>
     {%- if section.settings.heading != blank -%}
       <h2 class="title title-wrapper--no-top-margin {{ section.settings.heading_size }}">{{ section.settings.heading | escape }}</h2>
       <p>(Please provide the following details)</p>
@@ -115,7 +116,38 @@
           {{ 'templates.contact.form.send' | t }}
         </button>
       </div>
+    </div>
+    <div>
+      <p class="line-item-property__field">
+  <label>How may we help you?</label><br>
+  <input type="checkbox" id="I-like to get more information. please send me a proposal" hidden-data="How-may we help you?" onchange="fillHidden('How-may we help you?')" value="I like to get more information. please send me a proposal"><label for="I-like to get more information. please send me a proposal">I like to get more information. please send me a proposal</label><br>
+  <input type="checkbox" id="I-need a custom-designed scent logo" hidden-data="How-may we help you?" onchange="fillHidden('How-may we help you?')" value="I need a custom-designed scent logo"><label for="I-need a custom-designed scent logo">I need a custom-designed scent logo</label><br>
+  <input type="checkbox" id="I-like to schedule an actual demonstration of your products and services" hidden-data="How-may we help you?" onchange="fillHidden('How-may we help you?')" value="I like to schedule an actual demonstration of your products and services"><label for="I-like to schedule an actual demonstration of your products and services">I like to schedule an actual demonstration of your products and services</label><br>
+  <input type="checkbox" id="I-am interested to buy. please send me a quotation" hidden-data="How-may we help you?" onchange="fillHidden('How-may we help you?')" value="I am interested to buy. please send me a quotation"><label for="I-am interested to buy. please send me a quotation">I am interested to buy. please send me a quotation</label><br>
+  <input type="checkbox" id="I-like to set an explaratory meeting. please send representative as soon as possible" hidden-data="How-may we help you?" onchange="fillHidden('How-may we help you?')" value="I like to set an explaratory meeting. please send representative as soon as possible"><label for="I-like to set an explaratory meeting. please send representative as soon as possible">I like to set an explaratory meeting. please send representative as soon as possible</label><br>
+  <input type="hidden" id="How-may we help you?" name="properties[How may we help you?]">
+  <script>
+    function fillHidden(hiddenname) {
+    var checkboxes = document.querySelectorAll('[hidden-data="'+hiddenname+'"]');
+    var hiddenfield = document.getElementById(hiddenname);
+    hiddenfield.value = ""
+    var i;
+    for (i = 0; i < checkboxes.length; i++) {
+      var x = checkboxes[i];
+      if(x.checked){
+        if(hiddenfield.value==""){
+          hiddenfield.value = x.value;
+          }else{
+          hiddenfield.value = hiddenfield.value + ", " + x.value; 
+          } 
+        }
+      }
+    }
+  </script>
+</p>
+    </div>
     {%- endform -%}
+        
   </div>
 </div>
 
