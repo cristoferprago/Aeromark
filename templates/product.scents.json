@@ -16,12 +16,6 @@
           "settings": {
           }
         },
-        "variant_picker": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button"
-          }
-        },
         "description": {
           "type": "description",
           "settings": {
@@ -30,6 +24,12 @@
         "price": {
           "type": "price",
           "settings": {
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
           }
         },
         "quantity_selector": {
@@ -94,9 +94,9 @@
       "block_order": [
         "vendor",
         "title",
-        "variant_picker",
         "description",
         "price",
+        "variant_picker",
         "quantity_selector",
         "buy_buttons",
         "collapsible-row-0",
