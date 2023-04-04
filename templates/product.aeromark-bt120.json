@@ -190,6 +190,10 @@
     },
     "1a760293-2415-4311-a828-59338901cd83": {
       "type": "image-banner2",
+      "custom_css": [
+        ".banner__media {height: 100%; position: absolute; left: 0; top: 0; width: 70%;}",
+        ".banner__media {height: 70%;}"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Nano_Technology.png",
         "image_overlay_opacity": 0,
