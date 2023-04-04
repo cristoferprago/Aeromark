@@ -8,6 +8,22 @@
         "padding_bottom": 36
       }
     },
+    "df660cbc-928f-45da-aed4-7cd8379101d2": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Layer_1.png",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "form": {
       "type": "contact-form",
       "custom_css": [
@@ -25,6 +41,7 @@
   },
   "order": [
     "main",
+    "df660cbc-928f-45da-aed4-7cd8379101d2",
     "form"
   ]
 }
