@@ -10,6 +10,10 @@
     display: flex;
   }
 
+  .contact{
+    padding: 30px;
+  }
+
   @media screen and (min-width: 750px) {
     .section-{{ section.id }}-padding {
       padding-top: {{ section.settings.padding_top }}px;
@@ -21,7 +25,7 @@
 <div class="color-{{ section.settings.color_scheme }} gradient">
     <div class="contact page-width  section-{{ section.id }}-padding"> <!-- page-width--narrow -->
       <div class="contact-container1">
-        <div>
+        <div class="contact-left contact">
         {%- if section.settings.heading != blank -%}
             <h2 class="title title-wrapper--no-top-margin {{ section.settings.heading_size }}">{{ section.settings.heading | escape }}</h2>
             <p>(Please provide the following details)</p>
@@ -61,7 +65,7 @@
             </div>
             
 </div>
-         <div>
+         <div class="contact-right contact">
             <p class="line-item-property__field">
                 <label>How may we help you?</label><br>
                 <div>
