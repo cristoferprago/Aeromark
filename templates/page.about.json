@@ -194,6 +194,9 @@
         "4c26474f-e65a-4d35-83e3-9e72f2e805d8",
         "61bc94f1-d6f4-400e-8fbc-8c72060ebe16"
       ],
+      "custom_css": [
+        "h2.rich-text__heading.rte.h1 {display: flex; justify-content: center;}"
+      ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "left",
