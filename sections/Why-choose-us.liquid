@@ -35,6 +35,7 @@
               </p>
             {%- when 'text' -%}
               <div class="rich-text__text rte" {{ block.shopify_attributes }}>
+                {{ block.settings.wcu_text }}
                 {{ block.settings.text }}
               </div>
             {%- when 'button' -%}
