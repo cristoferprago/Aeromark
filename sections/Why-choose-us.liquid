@@ -33,6 +33,10 @@
     filter: drop-shadow(15px 15px 20px #b6b5c6);
   }
 
+  .second-para{
+    margin-left: 10px;
+  }
+
   @media screen and (min-width: 750px) {
     .section-{{ section.id }}-padding {
       padding-top: {{ section.settings.padding_top }}px;
@@ -60,7 +64,7 @@
               <div class="rich-text__text rte" {{ block.shopify_attributes }}>
                 <div class="wcu-container">
                   <div class="first-letter-container"><p class="first-letter">{{ block.settings.wcu_text }}</p></div>
-                  <p style="margin-left: 10px">{{ block.settings.text }}</p>
+                  <p class="second-para">{{ block.settings.text }}</p>
                 </div>
               </div>
             {%- when 'button' -%}
