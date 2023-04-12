@@ -214,6 +214,37 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "99d8c7f8-1ed6-471b-bee6-9065fb6972ef": {
+      "type": "Why-choose-us",
+      "blocks": {
+        "template--17670462964032__99d8c7f8-1ed6-471b-bee6-9065fb6972ef-1681287844e45c7368-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>WHY CHOOSE AEROMARK<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--17670462964032__99d8c7f8-1ed6-471b-bee6-9065fb6972ef-1681287844e45c7368-1": {
+          "type": "text",
+          "settings": {
+            "wcu_text": "A",
+            "text": "<p>ir scenting leader in the Philippines<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17670462964032__99d8c7f8-1ed6-471b-bee6-9065fb6972ef-1681287844e45c7368-0",
+        "template--17670462964032__99d8c7f8-1ed6-471b-bee6-9065fb6972ef-1681287844e45c7368-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -222,6 +253,7 @@
     "b548a009-ffb3-4d6f-bd5f-ec82feb73b4f",
     "71e800cc-ed14-42f8-a207-a91245aa6f24",
     "65736152-a70f-429c-85c8-3ab306b296ba",
-    "380bad87-3a92-4a6f-9f19-d244361e70ed"
+    "380bad87-3a92-4a6f-9f19-d244361e70ed",
+    "99d8c7f8-1ed6-471b-bee6-9065fb6972ef"
   ]
 }
