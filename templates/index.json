@@ -91,7 +91,8 @@
         "h2.rich-text__heading.rte.h1 {font-weight: bold;}",
         ".content-container--full-width:after {background: #e6fafb;}",
         ".rich-text__text.rte {font-size: 32px;}",
-        ".rich-text__blocks {max-width: 100%;}"
+        ".rich-text__blocks {max-width: 100%;}",
+        "a.button.button--primary {color: #50dfdb; background: transparent; font-weight: bold;}"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -168,13 +169,21 @@
         "template--17670463258944__5459dbc6-6281-4039-ae2d-7ad24fe9c3b1-1678693090f7bf4055-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p><em>\"Of the Five Senses, Smell is the one with the Best Memory\"<\/em><\/p><p><em><br\/><\/em><\/p>",
+            "heading": "<p><em>\"Of the Five Senses, Smell is the one with the Best Memory\"<br\/><\/em><em><strong>___________________________________<\/strong><\/em><\/p><p><em><br\/><\/em><\/p>",
+            "heading_size": "h2"
+          }
+        },
+        "0a56060f-2ccd-4759-bf73-59da579f7c36": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><em>Rebecca McClanahan(Author)<\/em><\/p>",
             "heading_size": "h2"
           }
         }
       },
       "block_order": [
-        "template--17670463258944__5459dbc6-6281-4039-ae2d-7ad24fe9c3b1-1678693090f7bf4055-0"
+        "template--17670463258944__5459dbc6-6281-4039-ae2d-7ad24fe9c3b1-1678693090f7bf4055-0",
+        "0a56060f-2ccd-4759-bf73-59da579f7c36"
       ],
       "custom_css": [
         ".content-container--full-width:after {background: #e6fafb;}"
@@ -190,6 +199,7 @@
     },
     "72e7eaf4-2fe9-4252-a875-5b04aef601b1": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
         "custom_liquid": "{% style %}\n.line-container{\nbackground: #e6fafb;\n height: 5px;\nmargin: -10px 0px;\n}\n{% endstyle %}\n\n<div class=\"line-container\" style=\"width: 100%; \">\n<hr style=\"border:1px outset;background-color:black;color:#3300FF;height:4px;width:40%;margin: auto ;\" \/>\n<\/div>",
         "color_scheme": "background-1",
@@ -199,6 +209,7 @@
     },
     "b20b963b-3d8a-4aa4-88b2-04ad72d2919f": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "template--17670463258944__b20b963b-3d8a-4aa4-88b2-04ad72d2919f-167945334026e6a93d-0": {
           "type": "heading",
