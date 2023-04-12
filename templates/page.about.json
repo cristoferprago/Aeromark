@@ -231,11 +231,19 @@
             "wcu_text": "A",
             "text": "<p>ir scenting leader in the Philippines<\/p>"
           }
+        },
+        "7d8a7f57-5688-433e-a9b5-bf1f7c7c967c": {
+          "type": "text",
+          "settings": {
+            "wcu_text": "E",
+            "text": "<p>xpertise in the Fragrance Formulation development<\/p>"
+          }
         }
       },
       "block_order": [
         "template--17670462964032__99d8c7f8-1ed6-471b-bee6-9065fb6972ef-1681287844e45c7368-0",
-        "template--17670462964032__99d8c7f8-1ed6-471b-bee6-9065fb6972ef-1681287844e45c7368-1"
+        "template--17670462964032__99d8c7f8-1ed6-471b-bee6-9065fb6972ef-1681287844e45c7368-1",
+        "7d8a7f57-5688-433e-a9b5-bf1f7c7c967c"
       ],
       "settings": {
         "desktop_content_position": "center",
