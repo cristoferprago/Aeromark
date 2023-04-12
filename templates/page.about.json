@@ -238,12 +238,60 @@
             "wcu_text": "E",
             "text": "<p>xpertise in the Fragrance Formulation development<\/p>"
           }
+        },
+        "baad40df-a572-48a4-94f4-2a8913441eb6": {
+          "type": "text",
+          "settings": {
+            "wcu_text": "R",
+            "text": "<p>eliable, advanced, and stylish air-scenting equipments<\/p>"
+          }
+        },
+        "13747664-0acb-41a9-aa9a-87c9fbee9d10": {
+          "type": "text",
+          "settings": {
+            "wcu_text": "O",
+            "text": "<p>utstanding turn-around time for new scent requests<\/p>"
+          }
+        },
+        "026208f2-0465-4575-a849-67cd45b7b844": {
+          "type": "text",
+          "settings": {
+            "wcu_text": "M",
+            "text": "<p>anufactures signature scents in its own facilities<\/p>"
+          }
+        },
+        "f6eaa28a-c937-430b-86e5-541e27abdec1": {
+          "type": "text",
+          "settings": {
+            "wcu_text": "A",
+            "text": "<p>ccredited importer from the world's Top Fragrance Houses<\/p>"
+          }
+        },
+        "9b82199d-084a-41cb-bf31-eb7e1afb8136": {
+          "type": "text",
+          "settings": {
+            "wcu_text": "R",
+            "text": "<p>ecommended & trusted by prestigious commercial establishments<\/p>"
+          }
+        },
+        "28e0f787-44a9-4ca2-a07a-1834f09ea271": {
+          "type": "text",
+          "settings": {
+            "wcu_text": "K",
+            "text": "<p>eeps customers happy<\/p>"
+          }
         }
       },
       "block_order": [
         "template--17670462964032__99d8c7f8-1ed6-471b-bee6-9065fb6972ef-1681287844e45c7368-0",
         "template--17670462964032__99d8c7f8-1ed6-471b-bee6-9065fb6972ef-1681287844e45c7368-1",
-        "7d8a7f57-5688-433e-a9b5-bf1f7c7c967c"
+        "7d8a7f57-5688-433e-a9b5-bf1f7c7c967c",
+        "baad40df-a572-48a4-94f4-2a8913441eb6",
+        "13747664-0acb-41a9-aa9a-87c9fbee9d10",
+        "026208f2-0465-4575-a849-67cd45b7b844",
+        "f6eaa28a-c937-430b-86e5-541e27abdec1",
+        "9b82199d-084a-41cb-bf31-eb7e1afb8136",
+        "28e0f787-44a9-4ca2-a07a-1834f09ea271"
       ],
       "custom_css": [
         ".content-container--full-width:after {background: #e6fafb;}"
