@@ -15,6 +15,11 @@
     align-items: center;
   }
 
+  .first-letter{
+    font-size: 2rem;
+    font-weight: bold;
+  }
+  
   .first-letter-container{
     width: 150px;
     height: 166px;
@@ -53,7 +58,7 @@
             {%- when 'text' -%}
               <div class="rich-text__text rte" {{ block.shopify_attributes }}>
                 <div class="wcu-container">
-                  <div class="first-letter-container"><p>{{ block.settings.wcu_text }}</p></div>
+                  <div class="first-letter-container"><p class="first-letter">{{ block.settings.wcu_text }}</p></div>
                   <p>{{ block.settings.text }}</p>
                 </div>
               </div>
