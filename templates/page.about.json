@@ -299,6 +299,7 @@
     },
     "380bad87-3a92-4a6f-9f19-d244361e70ed": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
         "custom_liquid": "{% style %}\na{\n text-decoration: none;\n color: #292E34;\n font-weight: bold;\n}\n{% endstyle %}\n<div class=\"page-width\">\n\n <a href=\"https:\/\/aeromark.myshopify.com\/pages\/about-2\">Next<\/a>\n<\/div>",
         "color_scheme": "background-1",
