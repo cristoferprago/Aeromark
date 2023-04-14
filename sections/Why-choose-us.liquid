@@ -74,7 +74,11 @@
             {%- when 'text' -%}
               <div class="rich-text__text rte" {{ block.shopify_attributes }}>
                 <div class="wcu-container">
-                  <div class="first-letter-container"><p class="first-letter">{{ block.settings.wcu_text }}</p></div>
+                  <div class="first-letter-container-parent">
+                    <div class="first-letter-container">
+                      <p class="first-letter">{{ block.settings.wcu_text }}</p>
+                    </div>
+                  </div>
                   <div class="second-para-container">{{ block.settings.text }}</div>
                 </div>
               </div>
