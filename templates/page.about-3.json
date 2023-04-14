@@ -111,6 +111,7 @@
     },
     "d46c54cf-a164-4745-a8a2-cb61f7b531dd": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "template--17670462964032__d46c54cf-a164-4745-a8a2-cb61f7b531dd-1678765944dc321baf-0": {
           "type": "heading",
@@ -146,9 +147,45 @@
     },
     "d2888569-7e34-48dd-b3ae-520274076745": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
         "custom_liquid": "{% style %}\n.bn-button{\n text-decoration: none;\n color: #292E34;\n font-weight: bold;\nmargin: 20px;\n}\n{% endstyle %}\n<div class=\"page-width\">\n <a class=\"bn-button\"\nhref=\"https:\/\/aeromark.myshopify.com\/pages\/about-2\">Back<\/a>\n\n<\/div>",
         "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "3fd4731d-d6ab-4bd1-a4d4-c59acece6c4c": {
+      "type": "what-is-hvac-scenting",
+      "blocks": {
+        "template--18573017088320__3fd4731d-d6ab-4bd1-a4d4-c59acece6c4c-1681454024badecdd2-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>WHAT IS HVAC SCENTING?<\/strong><\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--18573017088320__3fd4731d-d6ab-4bd1-a4d4-c59acece6c4c-1681454024badecdd2-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>HVAC is short for Heating, Ventilation and Air Conditioning. HVAC scenting is when a scent is diffused through the central cooling system. This is accomplished by connecting a scent diffuser to an existing HVAC system where it then disperses the aroma throught your facility.<\/p><p>Diffusing scent through your HVAC system provides powerful, even, and efficient scenting for large spaces.<\/p><p><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18573017088320__3fd4731d-d6ab-4bd1-a4d4-c59acece6c4c-1681454024badecdd2-0",
+        "template--18573017088320__3fd4731d-d6ab-4bd1-a4d4-c59acece6c4c-1681454024badecdd2-1"
+      ],
+      "custom_css": [
+        "h2.rich-text__heading.rte.h1 {font-weight: bold;}",
+        "p {text-align: justify;}",
+        ".content-container--full-width:after {background: #e6fafb;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
       }
@@ -160,6 +197,7 @@
     "71e800cc-ed14-42f8-a207-a91245aa6f24",
     "a4accaa5-4cb3-4169-900c-e40f52f11263",
     "d46c54cf-a164-4745-a8a2-cb61f7b531dd",
-    "d2888569-7e34-48dd-b3ae-520274076745"
+    "d2888569-7e34-48dd-b3ae-520274076745",
+    "3fd4731d-d6ab-4bd1-a4d4-c59acece6c4c"
   ]
 }
