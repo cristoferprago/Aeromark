@@ -159,11 +159,12 @@
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
-        "padding_bottom": 0
+        "padding_bottom": 40
       }
     },
     "3bc7d3be-e8af-4656-a106-a72470093f7f": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "template--18393813647680__3bc7d3be-e8af-4656-a106-a72470093f7f-1679902553b31e2c33-1": {
           "type": "text",
