@@ -3035,9 +3035,9 @@ section#shopify-section-template--18576396714304__main /* 5000 */{
 
 
 @media only screen and (max-width: 600px) {
-  .contact {
+  .contact.page-width.section-template--17670462996800__form-padding {
     padding: 10px;
-  }
+}
   
   .contact-container1 {
     display: flex;
