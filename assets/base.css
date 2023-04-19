@@ -3052,6 +3052,14 @@ section#shopify-section-template--18576396714304__main /* 5000 */{
     font-size: 16px !important;
 }
 
+  .rich-text__text.rte:nth-child(even) .wcu-container .first-letter-container-parent {
+    background-image: none;
+  }
+
+  .rich-text__text.rte:nth-child(odd) .wcu-container .first-letter-container-parent {
+    background-image: none;
+  }
+
 }
 
 
