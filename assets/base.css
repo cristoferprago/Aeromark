@@ -3053,11 +3053,11 @@ section#shopify-section-template--18576396714304__main /* 5000 */{
 }
 
   .rich-text__text.rte:nth-child(even) .wcu-container .first-letter-container-parent {
-    background-image: none;
+    background-image: none !important;
   }
 
   .rich-text__text.rte:nth-child(odd) .wcu-container .first-letter-container-parent {
-    background-image: none;
+    background-image: none !important;
   }
 
 }
