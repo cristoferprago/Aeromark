@@ -3030,3 +3030,13 @@ section#shopify-section-template--18576351428928__main, /* 2000 */
 section#shopify-section-template--18576396714304__main /* 5000 */{
     background: #e6fafb;
 }
+
+
+
+
+@media only screen and (max-width: 600px) {
+  .contact-container1 {
+    display: flex;
+    flex-direction: column;
+  }
+}
