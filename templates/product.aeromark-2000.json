@@ -191,7 +191,7 @@
     "a99e1b75-d80e-4328-bc33-6bc7ee02c40a": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "{% style %}\n.bg{\npadding: 20px 20px;\nwidth: 100%;\nheight: 150px;\nbackground: rgba(235, 210, 210, 0) url(https:\/\/cdn.shopify.com\/s\/files\/1\/0707\/6659\/2320\/files\/Nano_Technology.png?v=1680582153) center center\/contain no-repeat;\n}\n{% endstyle %}\n\n<div>\n  <div class=\"bg\" >\n  <\/div>\n  <div class=\"particles\" style=\"display: flex;  justify-content: space-evenly; margin: auto\">\n    <p>Ordinary Particles<\/p>\n    <p>Nanometer Particles<\/p>\n  <\/div>\n<\/div",
+        "custom_liquid": "{% style %}\n.bg{\npadding: 20px 20px;\nwidth: 100%;\nheight: 150px;\nbackground: rgba(235, 210, 210, 0) url(https:\/\/cdn.shopify.com\/s\/files\/1\/0707\/6659\/2320\/files\/Nano_Technology.png?v=1680582153) center center\/contain no-repeat;\n}\n{% endstyle %}\n\n<div>\n  <div class=\"bg\" >\n  <\/div>\n  <div class=\"particles\" style=\"display: flex; width: 954px; justify-content: space-evenly; margin: auto\">\n    <p>Ordinary Particles<\/p>\n    <p>Nanometer Particles<\/p>\n  <\/div>\n<\/div",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
