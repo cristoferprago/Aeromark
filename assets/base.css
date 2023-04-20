@@ -3064,8 +3064,8 @@ section#shopify-section-template--18576396714304__main /* 5000 */{
 
 @media only screen and (max-width: 954px){
   .particles{
-/*     width: 954px;
-    margin: auto; */
+    width: 0px;
+    
   }
 }
 
