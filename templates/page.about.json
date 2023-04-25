@@ -277,6 +277,39 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "a69dde1e-cbae-4416-842b-7727ee2a41be": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17670462964032__a69dde1e-cbae-4416-842b-7727ee2a41be-1682408246ee4033cd-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>HAVE YOUR OWN SIGNATURE SCENT<\/strong><\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--17670462964032__a69dde1e-cbae-4416-842b-7727ee2a41be-1682408246ee4033cd-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The development and creation of your scent iddentity is a very detailed & personalized process. During the customization process, all aspectss of your business are taken into consideration: their history, customers, goals & the desired emotional respone.<\/p><p><\/p><p>These are all interpreted & translated into a scent that represents your brand.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17670462964032__a69dde1e-cbae-4416-842b-7727ee2a41be-1682408246ee4033cd-0",
+        "template--17670462964032__a69dde1e-cbae-4416-842b-7727ee2a41be-1682408246ee4033cd-1"
+      ],
+      "custom_css": [
+        "p {text-align: justify;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -286,6 +319,7 @@
     "47f64ff3-08c0-402e-85d5-451d7113382c",
     "3892507f-2119-4310-b53b-24f128c8c396",
     "7ae8b506-24a1-45d0-afaf-1dbe6a32adcc",
-    "fe4e2bf4-a660-4c1f-ba39-0d32bbc23bcb"
+    "fe4e2bf4-a660-4c1f-ba39-0d32bbc23bcb",
+    "a69dde1e-cbae-4416-842b-7727ee2a41be"
   ]
 }
