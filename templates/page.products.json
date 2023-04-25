@@ -42,8 +42,7 @@
     "4679ca62-0153-4be0-9314-c83f047ef687": {
       "type": "featured-collection",
       "custom_css": [
-        ".card__inner.color-background-2.gradient.ratio {background: transparent;}",
-        ".card-information,h3 {text-align: center;}"
+        ".card__inner.color-background-2.gradient.ratio {background: transparent;}"
       ],
       "settings": {
         "title": "",
@@ -126,7 +125,7 @@
     "df18137d-cea2-421f-b254-66291063b4d8": {
       "type": "featured-collection",
       "custom_css": [
-        ".card-information, h3 {text-align: center;}"
+
       ],
       "settings": {
         "title": "",
