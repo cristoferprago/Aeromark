@@ -57,156 +57,6 @@
         "padding_bottom": 0
       }
     },
-    "b548a009-ffb3-4d6f-bd5f-ec82feb73b4f": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "template--17670462964032__b548a009-ffb3-4d6f-bd5f-ec82feb73b4f-1678765961dd61b6f0-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "THIS IS AEROMARK.",
-            "heading_size": "h1"
-          }
-        },
-        "template--17670462964032__b548a009-ffb3-4d6f-bd5f-ec82feb73b4f-1678765961dd61b6f0-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Aeromark can create & develop your signature scent that will bring your brand, product, or space to life.<\/p><p><\/p><p>We can customize your unique scent with an added benefit of anti-bacterial & anti-viral, or anti-smoke actives.<\/p><p><\/p><p>Our diffuser machines have many automated functions, allowing for a low maintenance operations & removing any need for a learning curve to scent your space. The formulation of your scent is based on the machine to be used.<\/p><p><\/p><p>Your fragrance satisfaction is our priority.<\/p><p><\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "template--17670462964032__b548a009-ffb3-4d6f-bd5f-ec82feb73b4f-1678765961dd61b6f0-0",
-        "template--17670462964032__b548a009-ffb3-4d6f-bd5f-ec82feb73b4f-1678765961dd61b6f0-1"
-      ],
-      "custom_css": [
-
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/AERO_LOGO_with_Chemworld.png",
-        "height": "adapt",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 0
-      }
-    },
-    "65736152-a70f-429c-85c8-3ab306b296ba": {
-      "type": "rich-text",
-      "disabled": true,
-      "blocks": {
-        "template--17670462964032__65736152-a70f-429c-85c8-3ab306b296ba-1678765944dc321baf-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>WHY CHOOSE AEROMARK<\/p>",
-            "heading_size": "h1"
-          }
-        },
-        "template--17670462964032__65736152-a70f-429c-85c8-3ab306b296ba-1678765944dc321baf-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>A ir scenting leader in the Philippines<\/p>"
-          }
-        },
-        "487c9713-33a6-4193-b971-a40aba48bbdc": {
-          "type": "text",
-          "settings": {
-            "text": "<p>E xpertise in the Fragrance Formulation development<\/p>"
-          }
-        },
-        "4f434713-9b7e-4d71-9378-14f1d99c18ea": {
-          "type": "text",
-          "settings": {
-            "text": "<p>R eliable, advanced, and stylish air-scenting equipments<\/p>"
-          }
-        },
-        "f3dd1b77-e76b-40e3-9aab-edd129a1f9ac": {
-          "type": "text",
-          "settings": {
-            "text": "<p>O utstanding turn-around time for new scent requests<\/p>"
-          }
-        },
-        "f17c5146-0114-4804-95a1-d0f9282a9fde": {
-          "type": "text",
-          "settings": {
-            "text": "<p>M anufactures signature scents in its own facilities<\/p>"
-          }
-        },
-        "d6c49613-2fa1-4d12-84a8-3acc3910accc": {
-          "type": "text",
-          "settings": {
-            "text": "<p>A ccredited importer from the world's Top Fragrance Houses<\/p>"
-          }
-        },
-        "4c26474f-e65a-4d35-83e3-9e72f2e805d8": {
-          "type": "text",
-          "settings": {
-            "text": "<p>R ecommended & trusted by prestigious commercial establishments<\/p>"
-          }
-        },
-        "61bc94f1-d6f4-400e-8fbc-8c72060ebe16": {
-          "type": "text",
-          "settings": {
-            "text": "<p>K eeps customers happy<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--17670462964032__65736152-a70f-429c-85c8-3ab306b296ba-1678765944dc321baf-0",
-        "template--17670462964032__65736152-a70f-429c-85c8-3ab306b296ba-1678765944dc321baf-1",
-        "487c9713-33a6-4193-b971-a40aba48bbdc",
-        "4f434713-9b7e-4d71-9378-14f1d99c18ea",
-        "f3dd1b77-e76b-40e3-9aab-edd129a1f9ac",
-        "f17c5146-0114-4804-95a1-d0f9282a9fde",
-        "d6c49613-2fa1-4d12-84a8-3acc3910accc",
-        "4c26474f-e65a-4d35-83e3-9e72f2e805d8",
-        "61bc94f1-d6f4-400e-8fbc-8c72060ebe16"
-      ],
-      "custom_css": [
-        "h2.rich-text__heading.rte.h1 {display: flex; justify-content: center;}"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "71e800cc-ed14-42f8-a207-a91245aa6f24": {
-      "type": "rich-text",
-      "disabled": true,
-      "blocks": {
-        "template--17670462964032__71e800cc-ed14-42f8-a207-a91245aa6f24-1678765944dc321baf-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Our diffuser machines have many automated functions, allowing for a low maintenance operations & removing any need for a learning curve to scent your space. The formulation of your scent is based on the machine to be used.<\/p><p><\/p><p>Your fragrance satisfaction is our priority.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--17670462964032__71e800cc-ed14-42f8-a207-a91245aa6f24-1678765944dc321baf-1"
-      ],
-      "custom_css": [
-        "p {text-align: justify;}",
-        ".isolate {top-margin: 50px;}"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 0,
-        "padding_bottom": 52
-      }
-    },
     "99d8c7f8-1ed6-471b-bee6-9065fb6972ef": {
       "type": "Why-choose-us",
       "blocks": {
@@ -296,25 +146,11 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
-    },
-    "380bad87-3a92-4a6f-9f19-d244361e70ed": {
-      "type": "custom-liquid",
-      "disabled": true,
-      "settings": {
-        "custom_liquid": "{% style %}\na{\n text-decoration: none;\n color: #292E34;\n font-weight: bold;\n}\n{% endstyle %}\n<div class=\"page-width\">\n\n <a href=\"https:\/\/aeromark.myshopify.com\/pages\/about-2\">Next<\/a>\n<\/div>",
-        "color_scheme": "background-1",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
     "main",
     "0396d12f-3613-43b3-868a-028e824d989c",
-    "b548a009-ffb3-4d6f-bd5f-ec82feb73b4f",
-    "65736152-a70f-429c-85c8-3ab306b296ba",
-    "71e800cc-ed14-42f8-a207-a91245aa6f24",
-    "99d8c7f8-1ed6-471b-bee6-9065fb6972ef",
-    "380bad87-3a92-4a6f-9f19-d244361e70ed"
+    "99d8c7f8-1ed6-471b-bee6-9065fb6972ef"
   ]
 }
