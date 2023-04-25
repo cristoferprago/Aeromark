@@ -180,7 +180,7 @@
     "3892507f-2119-4310-b53b-24f128c8c396": {
       "type": "company-milestone",
       "custom_css": [
-        "h2.rich-text__heading.rte.h1 {font-weight: bold;}"
+        "h1 {font-weight: bold;}"
       ],
       "settings": {
         "desktop_content_position": "center",
