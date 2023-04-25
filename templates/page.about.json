@@ -191,49 +191,6 @@
         "padding_bottom": 52
       }
     },
-    "7ae8b506-24a1-45d0-afaf-1dbe6a32adcc": {
-      "type": "what-is-hvac-scenting",
-      "disabled": true,
-      "blocks": {
-        "template--17670462964032__7ae8b506-24a1-45d0-afaf-1dbe6a32adcc-1682406771ada91cd8-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Talk about your brand<\/p>",
-            "heading_size": "h1"
-          }
-        },
-        "template--17670462964032__7ae8b506-24a1-45d0-afaf-1dbe6a32adcc-1682406771ada91cd8-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
-        "template--17670462964032__7ae8b506-24a1-45d0-afaf-1dbe6a32adcc-1682406771ada91cd8-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--17670462964032__7ae8b506-24a1-45d0-afaf-1dbe6a32adcc-1682406771ada91cd8-0",
-        "template--17670462964032__7ae8b506-24a1-45d0-afaf-1dbe6a32adcc-1682406771ada91cd8-1",
-        "template--17670462964032__7ae8b506-24a1-45d0-afaf-1dbe6a32adcc-1682406771ada91cd8-2"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "fe4e2bf4-a660-4c1f-ba39-0d32bbc23bcb": {
       "type": "Why-choose-us",
       "disabled": true,
@@ -310,6 +267,41 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "7ae8b506-24a1-45d0-afaf-1dbe6a32adcc": {
+      "type": "what-is-hvac-scenting",
+      "blocks": {
+        "template--17670462964032__7ae8b506-24a1-45d0-afaf-1dbe6a32adcc-1682406771ada91cd8-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>WHAT IS HVAC SCENTING?<\/strong><\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--17670462964032__7ae8b506-24a1-45d0-afaf-1dbe6a32adcc-1682406771ada91cd8-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>HVAC is short for Heating, Ventilation and Air Conditioning. HVAC scenting is when a scent is diffused through the central cooling system. This is accomplished by connecting a scent diffuser to an existing HVAC system where it then disperses the aroma throught your facility.<\/p><p>Diffusing scent through your HVAC system provides powerful, even, and efficient scenting for large spaces.<\/p><p><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17670462964032__7ae8b506-24a1-45d0-afaf-1dbe6a32adcc-1682406771ada91cd8-0",
+        "template--17670462964032__7ae8b506-24a1-45d0-afaf-1dbe6a32adcc-1682406771ada91cd8-1"
+      ],
+      "custom_css": [
+        "h2.rich-text__heading.rte.h1 {font-weight: bold;}",
+        "p {text-align: justify;}",
+        ".content-container--full-width:after {background: #e6fafb;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -318,8 +310,8 @@
     "99d8c7f8-1ed6-471b-bee6-9065fb6972ef",
     "47f64ff3-08c0-402e-85d5-451d7113382c",
     "3892507f-2119-4310-b53b-24f128c8c396",
-    "7ae8b506-24a1-45d0-afaf-1dbe6a32adcc",
     "fe4e2bf4-a660-4c1f-ba39-0d32bbc23bcb",
-    "a69dde1e-cbae-4416-842b-7727ee2a41be"
+    "a69dde1e-cbae-4416-842b-7727ee2a41be",
+    "7ae8b506-24a1-45d0-afaf-1dbe6a32adcc"
   ]
 }
