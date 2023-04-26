@@ -393,6 +393,139 @@
         "padding_top": 0,
         "padding_bottom": 36
       }
+    },
+    "cc470474-9cf4-472a-b123-3ceb20b90b79": {
+      "type": "multicolumn-slider",
+      "blocks": {
+        "template--17670463258944__cc470474-9cf4-472a-b123-3ceb20b90b79-1682473966e11d7a88-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Wagner_Cafe.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "76806246-aa0c-4321-9693-0a7e82ade5cb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Wagner_Cafe.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "95aacb78-764d-4518-8349-681e005c0316": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Wagner_Cafe.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "b42abb44-0c77-4e79-a7ba-be30bde269f2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Wagner_Cafe.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "0872c1b7-f6de-4291-aa69-a4625ef737ae": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Wagner_Cafe.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "ecee8f35-c624-4e3c-9ab7-7fe1a25e662b": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Wagner_Cafe.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "e649b35f-666e-43b3-8ad0-b05f20545fbf": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Wagner_Cafe.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "3e3a4b68-48b5-4185-9248-b7f0a542373c": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Wagner_Cafe.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "752db5ad-b813-4a23-b8f8-dc64abfc5159": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Wagner_Cafe.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "bd6d6170-52a4-48d6-997c-22fd9fe4e8f2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Wagner_Cafe.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17670463258944__cc470474-9cf4-472a-b123-3ceb20b90b79-1682473966e11d7a88-0",
+        "76806246-aa0c-4321-9693-0a7e82ade5cb",
+        "95aacb78-764d-4518-8349-681e005c0316",
+        "b42abb44-0c77-4e79-a7ba-be30bde269f2",
+        "0872c1b7-f6de-4291-aa69-a4625ef737ae",
+        "ecee8f35-c624-4e3c-9ab7-7fe1a25e662b",
+        "e649b35f-666e-43b3-8ad0-b05f20545fbf",
+        "3e3a4b68-48b5-4185-9248-b7f0a542373c",
+        "752db5ad-b813-4a23-b8f8-dc64abfc5159",
+        "bd6d6170-52a4-48d6-997c-22fd9fe4e8f2"
+      ],
+      "settings": {
+        "title": "OUR VALUED PARTNERS",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -404,6 +537,7 @@
     "72e7eaf4-2fe9-4252-a875-5b04aef601b1",
     "b20b963b-3d8a-4aa4-88b2-04ad72d2919f",
     "119344a4-a50c-486f-8d86-5bb11d6366c5",
-    "f21c36e8-1cb2-47df-a2ac-cd6d4b5b623f"
+    "f21c36e8-1cb2-47df-a2ac-cd6d4b5b623f",
+    "cc470474-9cf4-472a-b123-3ceb20b90b79"
   ]
 }
