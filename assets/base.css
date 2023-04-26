@@ -3073,5 +3073,31 @@ h2.rich-text__heading.rte.h1 {
     margin-bottom: 30px;
 }
 
+/* slider css */
+.multicolumn-slider{
+  .slick-track{
+    display: flex;
+  }
+  .product-card{
+    width: 100%;
+  }
+  .slick-prev{
+    left: 0;
+    z-index: 999;
+  }
+  .slick-next{
+    right: 0;
+    z-dinex: 999;
+  }
+  .padding-right: 25px;
+  .overflow: hidden;
+}
 
-
+.slick-prev:before {
+    content: '←';
+    color: #7A7A7A;
+}
+.slick-next:before {
+    content: '→';
+  color: #7A7A7A;
+}
