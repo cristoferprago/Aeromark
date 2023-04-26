@@ -284,10 +284,30 @@
             "link": ""
           }
         },
+        "73803e16-50ed-46a6-9ca0-e86474d4240e": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Harley_Davidson_Showroom.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "a0fcb204-64a9-4f93-936c-0b962d677ffe": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Fortune_Gate_Casino.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "53913a00-b0a6-48ff-94c9-ac161099ffbc": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Citadines.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -314,26 +334,6 @@
             "link": ""
           }
         },
-        "73803e16-50ed-46a6-9ca0-e86474d4240e": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Harley_Davidson_Showroom.png",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "53913a00-b0a6-48ff-94c9-ac161099ffbc": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Citadines.png",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "42c24f02-65b1-4105-81ac-91803537ec5c": {
           "type": "column",
           "settings": {
@@ -344,10 +344,30 @@
             "link": ""
           }
         },
+        "26240330-34ba-4e85-9e22-92873fd353ac": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Go_Hotels_81a2e92c-2c56-43a8-ba11-ad68ecd23ed4.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "4263c6d9-196c-4909-8fa6-6fde8d77d213": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/The_Belleveu.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "692bd176-bb98-4e12-aa85-5984c2ae0867": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Manila_Hotel_b0f1653d-ec4e-4e95-83db-2e99ddd606c9.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -374,10 +394,10 @@
             "link": ""
           }
         },
-        "26240330-34ba-4e85-9e22-92873fd353ac": {
+        "6633e173-dcc9-41ea-87f5-c7256bfac1dd": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Go_Hotels_81a2e92c-2c56-43a8-ba11-ad68ecd23ed4.jpg",
+            "image": "shopify:\/\/shop_images\/Pet_Valley_Park_and_Crematory_8c8ad27c-4974-44ae-930d-577563355354.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -394,10 +414,10 @@
             "link": ""
           }
         },
-        "692bd176-bb98-4e12-aa85-5984c2ae0867": {
+        "45f2ea8a-a0ff-4d89-9085-c4483f9064d7": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Manila_Hotel_b0f1653d-ec4e-4e95-83db-2e99ddd606c9.jpg",
+            "image": "shopify:\/\/shop_images\/Summit_Hotels_and_Resort_99caa1cd-330d-4895-a8fe-7222143611d1.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -408,26 +428,6 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Microtel_5f750af1-ac0c-44bc-9a25-a0e200cbdcdc.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "6633e173-dcc9-41ea-87f5-c7256bfac1dd": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Pet_Valley_Park_and_Crematory_8c8ad27c-4974-44ae-930d-577563355354.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "45f2ea8a-a0ff-4d89-9085-c4483f9064d7": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Summit_Hotels_and_Resort_99caa1cd-330d-4895-a8fe-7222143611d1.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -448,21 +448,21 @@
       "block_order": [
         "template--17670463258944__f21c36e8-1cb2-47df-a2ac-cd6d4b5b623f-1678692789ecb8dd99-0",
         "e2ddc85d-1251-41e8-b9af-d88e28a42dbc",
+        "73803e16-50ed-46a6-9ca0-e86474d4240e",
         "a0fcb204-64a9-4f93-936c-0b962d677ffe",
+        "53913a00-b0a6-48ff-94c9-ac161099ffbc",
         "650d70e3-1ba2-4bdc-aaf0-571c3167d66f",
         "1ce2baa1-af2b-4068-bb99-86f954617b5f",
-        "73803e16-50ed-46a6-9ca0-e86474d4240e",
-        "53913a00-b0a6-48ff-94c9-ac161099ffbc",
         "42c24f02-65b1-4105-81ac-91803537ec5c",
+        "26240330-34ba-4e85-9e22-92873fd353ac",
         "4263c6d9-196c-4909-8fa6-6fde8d77d213",
+        "692bd176-bb98-4e12-aa85-5984c2ae0867",
         "ed722233-de96-483f-8d87-559e95e7d8b9",
         "601e02cf-7a71-404a-93cc-03e44e2df3d7",
-        "26240330-34ba-4e85-9e22-92873fd353ac",
-        "02110c0d-709f-4e95-84bd-b9db789e5621",
-        "692bd176-bb98-4e12-aa85-5984c2ae0867",
-        "5431ee79-4961-4b97-977a-9c566ba6abf4",
         "6633e173-dcc9-41ea-87f5-c7256bfac1dd",
+        "02110c0d-709f-4e95-84bd-b9db789e5621",
         "45f2ea8a-a0ff-4d89-9085-c4483f9064d7",
+        "5431ee79-4961-4b97-977a-9c566ba6abf4",
         "841e2fb7-be7d-4f79-9b63-3b19d7b76d69"
       ],
       "settings": {
