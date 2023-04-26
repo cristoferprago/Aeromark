@@ -267,7 +267,7 @@
         "template--17670463258944__f21c36e8-1cb2-47df-a2ac-cd6d4b5b623f-1678692789ecb8dd99-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Wagner_Cafe.png",
+            "image": "shopify:\/\/shop_images\/Ortigas___Company1.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -363,6 +363,86 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "601e02cf-7a71-404a-93cc-03e44e2df3d7": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/70937440_10156969557029032_1600055934019698688_n_93749807-5d79-468a-ac3d-1ed159c17719.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "26240330-34ba-4e85-9e22-92873fd353ac": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Go_Hotels_81a2e92c-2c56-43a8-ba11-ad68ecd23ed4.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "02110c0d-709f-4e95-84bd-b9db789e5621": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Hilton_Manila_4aed15ff-01ce-4f9c-a1aa-fb6e03e40116.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "692bd176-bb98-4e12-aa85-5984c2ae0867": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Manila_Hotel_b0f1653d-ec4e-4e95-83db-2e99ddd606c9.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "5431ee79-4961-4b97-977a-9c566ba6abf4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Microtel_5f750af1-ac0c-44bc-9a25-a0e200cbdcdc.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "6633e173-dcc9-41ea-87f5-c7256bfac1dd": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Pet_Valley_Park_and_Crematory_8c8ad27c-4974-44ae-930d-577563355354.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "45f2ea8a-a0ff-4d89-9085-c4483f9064d7": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Summit_Hotels_and_Resort_99caa1cd-330d-4895-a8fe-7222143611d1.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "841e2fb7-be7d-4f79-9b63-3b19d7b76d69": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Uratex_bccc587f-330d-4ea8-9d4a-913c994c4163.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -375,14 +455,22 @@
         "53913a00-b0a6-48ff-94c9-ac161099ffbc",
         "42c24f02-65b1-4105-81ac-91803537ec5c",
         "4263c6d9-196c-4909-8fa6-6fde8d77d213",
-        "ed722233-de96-483f-8d87-559e95e7d8b9"
+        "ed722233-de96-483f-8d87-559e95e7d8b9",
+        "601e02cf-7a71-404a-93cc-03e44e2df3d7",
+        "26240330-34ba-4e85-9e22-92873fd353ac",
+        "02110c0d-709f-4e95-84bd-b9db789e5621",
+        "692bd176-bb98-4e12-aa85-5984c2ae0867",
+        "5431ee79-4961-4b97-977a-9c566ba6abf4",
+        "6633e173-dcc9-41ea-87f5-c7256bfac1dd",
+        "45f2ea8a-a0ff-4d89-9085-c4483f9064d7",
+        "841e2fb7-be7d-4f79-9b63-3b19d7b76d69"
       ],
       "settings": {
         "title": "",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "square",
-        "columns_desktop": 5,
+        "columns_desktop": 6,
         "column_alignment": "left",
         "background_style": "primary",
         "button_label": "",
