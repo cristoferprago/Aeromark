@@ -90,9 +90,9 @@
       "custom_css": [
         "h2.rich-text__heading.rte.h1 {font-weight: bold;}",
         ".content-container--full-width:after {background: #e6fafb;}",
-        ".rich-text__text.rte {font-size: 32px;}",
+        ".rich-text__text.rte {}",
         ".rich-text__blocks {max-width: 100%;}",
-        "a.button.button--primary {font-size: 32px; color: #50dfdb; background: transparent; font-weight: bold;}",
+        "a.button.button--primary {color: #50dfdb; background: transparent; font-weight: bold;}",
         ".button:after {box-shadow: 1 0 0 calc(var(--buttons-border-width) + var(--border-offset)) rgba(var(--color-button-text), var(--border-opacity)), 0 0 0 var(--buttons-border-width) rgba(var(--color-button), var(--alpha-button-background));}"
       ],
       "settings": {
