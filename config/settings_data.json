@@ -196,18 +196,11 @@
               "menu": "contact-us"
             }
           },
-          "dc190443-4098-4d3d-8043-d75a310b5000": {
-            "type": "text",
-            "settings": {
-              "heading": "Your fragrance satisfaction is our priority",
-              "subtext": "<p>For product demo please contact us at:<br\/>info@aeromark.ph<br\/>+63 917 860 6443<br\/>+63 917 578  6539<br\/>(02)8405-5749<\/p>"
-            }
-          },
           "46b43777-ce24-4d5b-b150-f14d76c66b26": {
             "type": "text",
             "settings": {
-              "heading": "Heading",
-              "subtext": "<p>For product demo please contact us at:<\/p><\/br><p><a href=\"mailto:cristofer.prago@reis.ph\">Email Us<\/a><\/p>"
+              "heading": "Your fragrance satisfaction is our priority",
+              "subtext": "<p>For product demo please contact us at:<br\/><a href=\"mailto:cristofer.prago@reis.ph\">info@aeromark.ph<\/a><br\/>+63 917 860 6443<br\/>+63 917 578  6539<br\/>(02)8405-5749<\/p>"
             }
           }
         },
@@ -215,7 +208,6 @@
           "footer-0",
           "footer-1",
           "e3f417cb-8a94-4261-8cf6-9c61ef34272f",
-          "dc190443-4098-4d3d-8043-d75a310b5000",
           "46b43777-ce24-4d5b-b150-f14d76c66b26"
         ],
         "settings": {
