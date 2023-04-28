@@ -190,6 +190,7 @@
           },
           "e3f417cb-8a94-4261-8cf6-9c61ef34272f": {
             "type": "link_list",
+            "disabled": true,
             "settings": {
               "heading": "Contact Us",
               "menu": "contact-us"
