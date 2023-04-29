@@ -40,6 +40,26 @@
       padding-bottom: {{ section.settings.padding_bottom }}px;
     }
   }
+
+
+
+
+/*   Hide the up and down arrows in Chrome, Safari, and Opera */
+  input[type=number]::-webkit-inner-spin-button,
+  input[type=number]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+  
+  /* Hide the up and down arrows in Firefox */
+  input[type=number] {
+    -moz-appearance: textfield;
+  }
+
+
+
+
+  
 {%- endstyle -%}
 
 <div class="color-{{ section.settings.color_scheme }} gradient">
