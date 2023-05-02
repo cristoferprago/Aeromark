@@ -187,7 +187,8 @@
         "0a56060f-2ccd-4759-bf73-59da579f7c36"
       ],
       "custom_css": [
-        ".content-container--full-width:after {background: #e6fafb;}"
+        ".content-container--full-width:after {background: #e6fafb;}",
+        "em {font-weight: bolder;}"
       ],
       "settings": {
         "desktop_content_position": "center",
