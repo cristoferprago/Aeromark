@@ -106,21 +106,21 @@
           "type": "text",
           "settings": {
             "wcu_text": "A",
-            "text": "<p>ccredited importer from the world's Top Fragrance Houses<\/p>"
+            "text": "<p>ccredited sourcing from the World's Top Fragrance Houses<\/p>"
           }
         },
         "9b82199d-084a-41cb-bf31-eb7e1afb8136": {
           "type": "text",
           "settings": {
             "wcu_text": "R",
-            "text": "<p>ecommended & trusted by prestigious commercial establishments<\/p>"
+            "text": "<p>ecommended & trusted by prestigious companies and commercial business<\/p>"
           }
         },
         "28e0f787-44a9-4ca2-a07a-1834f09ea271": {
           "type": "text",
           "settings": {
             "wcu_text": "K",
-            "text": "<p>eeps customers happy<\/p>"
+            "text": "<p>eeps the facility always sanitized and scented<\/p>"
           }
         }
       },
