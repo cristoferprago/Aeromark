@@ -43,7 +43,7 @@
       "type": "featured-collection",
       "custom_css": [
         ".card__inner.color-background-2.gradient.ratio {background: transparent;}",
-        "button {background-color: #272c35;}",
+        "button {background-color: #272c35; color: White; text-transform: uppercase;}",
         "button span {color: White; text-transform: uppercase;}"
       ],
       "settings": {
@@ -127,7 +127,8 @@
     "df18137d-cea2-421f-b254-66291063b4d8": {
       "type": "featured-collection",
       "custom_css": [
-
+        "button {background-color: #272c35; color: White; text-transform: uppercase;}",
+        "button span {color: White; text-transform: uppercase;}"
       ],
       "settings": {
         "title": "",
