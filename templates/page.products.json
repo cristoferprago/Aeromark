@@ -23,7 +23,8 @@
         "template--18336244138304__886db236-9faf-40c7-a2aa-094d1e6c5ceb-1678871806c6d83964-0"
       ],
       "custom_css": [
-        "h3.banner__heading.h1 {color: black; font-weight: bold;}"
+        "h2.banner__heading.h1 {color: black; font-weight: bold;}",
+        "h2.banner__heading.h2 {color: black; font-weight: bold;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Advanced_air_scenting_machines.png",
