@@ -145,7 +145,7 @@
       "custom_css": [
         ".title-wrapper-with-link.title-wrapper--self-padded-mobile.title-wrapper--no-top-margin {justify-content: center;}",
         "h2.title.h1 {font-weight: bold;}",
-        "a.link.animate-arrow {\/* font-size: 32px; *\/}"
+        "a.link.animate-arrow {font-size: 24px;}"
       ],
       "settings": {
         "title": "SHOP NOW",
