@@ -3104,13 +3104,13 @@ h2.rich-text__heading.rte.h1 {
 
 
 
-product-form__buttons button{
+.product-form__buttons button{
   background-color: #272c35;
   color: White;
   text-transform: uppercase;
 }
 
-product-form__buttons button span {
+.product-form__buttons button span {
   color: White;
   text-transform: uppercase;
 }
