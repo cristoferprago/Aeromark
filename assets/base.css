@@ -3101,3 +3101,11 @@ h2.rich-text__heading.rte.h1 {
     content: '→';
   color: #7A7A7A;
 }
+
+
+
+product-form__buttons button{
+  background-color: #272c35;
+  color: White;
+  text-transform: uppercase;
+}
