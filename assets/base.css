@@ -3109,3 +3109,8 @@ product-form__buttons button{
   color: White;
   text-transform: uppercase;
 }
+
+product-form__buttons button span {
+  color: White;
+  text-transform: uppercase;
+}
