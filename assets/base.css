@@ -3114,3 +3114,14 @@ h2.rich-text__heading.rte.h1 {
   color: White;
   text-transform: uppercase;
 }
+
+
+
+
+
+
+
+.banner__box.content-container.content-container--full-width-mobile.color-background-1.gradient {
+    /* width: 100% !important; */
+    padding: 0 !important;
+}
