@@ -15,7 +15,7 @@
           "type": "heading",
           "settings": {
             "heading": "ADVANCED AIR-SCENTING MACHINES",
-            "heading_size": "h2"
+            "heading_size": "h1"
           }
         }
       },
@@ -101,7 +101,7 @@
           "type": "heading",
           "settings": {
             "heading": "OUR SCENT LIBRARY",
-            "heading_size": "h2"
+            "heading_size": "h1"
           }
         }
       },
@@ -109,7 +109,7 @@
         "template--18336244138304__14c72083-d6e4-4ae1-a0ca-2cc1238b5eda-1678871806c6d83964-0"
       ],
       "custom_css": [
-        "h2.banner__heading.h2 {color: black; font-weight: bold;}"
+        "h2.banner__heading.h1 {color: black; font-weight: bold;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Our_scent_library2.png",
