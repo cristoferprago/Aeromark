@@ -3061,7 +3061,7 @@ section#shopify-section-template--18576396714304__main /* 5000 */{
   }
 
   #shopify-section-template--17670463258944__277d89ab-fd04-4bb5-81ce-31384ca1b2b2 a.link.animate-arrow {
-    font-size: 16px; 
+    font-size: 16px !important; 
   }
 
 }
