@@ -3060,6 +3060,10 @@ section#shopify-section-template--18576396714304__main /* 5000 */{
     background-image: none !important;
   }
 
+  #shopify-section-template--17670463258944__277d89ab-fd04-4bb5-81ce-31384ca1b2b2 a.link.animate-arrow {
+    font-size: 16px; 
+  }
+
 }
 
 @media only screen and (max-width: 954px){
@@ -3124,4 +3128,9 @@ h2.rich-text__heading.rte.h1 {
 .banner__box.content-container.content-container--full-width-mobile.color-background-1.gradient {
     /* width: 100% !important; */
     padding: 0 !important;
+}
+
+
+@media only screen and (max-width: 600px){
+  
 }
