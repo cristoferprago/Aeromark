@@ -167,10 +167,16 @@
     "5459dbc6-6281-4039-ae2d-7ad24fe9c3b1": {
       "type": "rich-text",
       "blocks": {
+        "dbfb759c-f4ee-4f0d-893d-8d0712c5b596": {
+          "type": "text",
+          "settings": {
+            "text": "<h3><em>\"Of the Five Senses, Smell is the one with the Best Memory\"<\/em><\/h3>"
+          }
+        },
         "template--17670463258944__5459dbc6-6281-4039-ae2d-7ad24fe9c3b1-1678693090f7bf4055-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p><em>\"Of the Five Senses, Smell is the one with the Best Memory\"<br\/><\/em><em><strong>___________________________________<\/strong><\/em><\/p><p><em><br\/><\/em><\/p>",
+            "heading": "<h3><em><strong>______________________________________<\/strong><\/em><\/h3><p><\/p>",
             "heading_size": "h2"
           }
         },
@@ -183,6 +189,7 @@
         }
       },
       "block_order": [
+        "dbfb759c-f4ee-4f0d-893d-8d0712c5b596",
         "template--17670463258944__5459dbc6-6281-4039-ae2d-7ad24fe9c3b1-1678693090f7bf4055-0",
         "0a56060f-2ccd-4759-bf73-59da579f7c36"
       ],
