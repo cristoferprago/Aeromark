@@ -312,7 +312,7 @@
         "template--17670462964032__b4943cef-ce13-43c9-9dcd-194385b9da21-1683278108cfe22a87-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p><a>Talk about your brand<\/a><\/p>",
+            "heading": "<p><a href=\"#\" title=\"#\">V<\/a>EROMARK<\/p>",
             "heading_size": "h1"
           }
         },
@@ -338,6 +338,9 @@
         "template--17670462964032__b4943cef-ce13-43c9-9dcd-194385b9da21-1683278108cfe22a87-0",
         "template--17670462964032__b4943cef-ce13-43c9-9dcd-194385b9da21-1683278108cfe22a87-1",
         "template--17670462964032__b4943cef-ce13-43c9-9dcd-194385b9da21-1683278108cfe22a87-2"
+      ],
+      "custom_css": [
+
       ],
       "settings": {
         "desktop_content_position": "center",
