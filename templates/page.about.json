@@ -169,7 +169,7 @@
         "template--17670462964032__47f64ff3-08c0-402e-85d5-451d7113382c-16824065378a056cc5-1"
       ],
       "custom_css": [
-
+        "p {text-align: justify; \/* For Edge *\/ text-align-last: center;}"
       ],
       "settings": {
         "desktop_content_position": "center",
