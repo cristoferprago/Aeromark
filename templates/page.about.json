@@ -147,8 +147,42 @@
         "padding_bottom": 52
       }
     },
+    "0f02d806-a0d1-41f6-ab96-dcbdc219f09c": {
+      "type": "Behind-aeromark",
+      "blocks": {
+        "template--17670462964032__0f02d806-a0d1-41f6-ab96-dcbdc219f09c-1683528756cc7678c9-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>WHAT IS BEHIND THE SUCCESS OF AEROMARK?<\/strong><\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--17670462964032__0f02d806-a0d1-41f6-ab96-dcbdc219f09c-1683528756cc7678c9-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Aeromark's strong performance in the air-scenting business is born out of the over 38 years of experience and worldwide fragrance resources of its parent company, <br\/> Chemworld Marketing Corp.<\/p><p>Chemworld initially focused on distribution of specialty chemicals in the personal care and food industries when it started in 1985.<\/p><p>With its reputation as a reliable and trusted source of specialty ingredients, Chemworld added to its product line to include fragrances and flavours from the top fragrance houses in the world.<\/p><p>Chemworld is an active member of Chamber of Cosmetics Industry of the Philippines Inc. and Philippine Society for Cosmetic Science Inc.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17670462964032__0f02d806-a0d1-41f6-ab96-dcbdc219f09c-1683528756cc7678c9-0",
+        "template--17670462964032__0f02d806-a0d1-41f6-ab96-dcbdc219f09c-1683528756cc7678c9-1"
+      ],
+      "custom_css": [
+        "p {text-align: justify; \/* For Edge *\/ text-align-last: center;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "47f64ff3-08c0-402e-85d5-451d7113382c": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "template--17670462964032__47f64ff3-08c0-402e-85d5-451d7113382c-16824065378a056cc5-0": {
           "type": "heading",
@@ -356,6 +390,7 @@
     "main",
     "0396d12f-3613-43b3-868a-028e824d989c",
     "99d8c7f8-1ed6-471b-bee6-9065fb6972ef",
+    "0f02d806-a0d1-41f6-ab96-dcbdc219f09c",
     "47f64ff3-08c0-402e-85d5-451d7113382c",
     "3892507f-2119-4310-b53b-24f128c8c396",
     "fe4e2bf4-a660-4c1f-ba39-0d32bbc23bcb",
