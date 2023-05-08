@@ -117,13 +117,13 @@
         "template--17670463258944__94b662bc-709f-460a-a00a-0db58cb6fefa-1683510846385a29ac-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>Aeromark creates and develops signature scents that help define and enhance your brand image and experience.<\/p>"
           }
         },
         "template--17670463258944__94b662bc-709f-460a-a00a-0db58cb6fefa-1683510846385a29ac-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "LEARN MORE>",
             "button_link": "",
             "button_style_secondary": false,
             "button_label_2": "",
@@ -136,6 +136,14 @@
         "template--17670463258944__94b662bc-709f-460a-a00a-0db58cb6fefa-1683510846385a29ac-0",
         "template--17670463258944__94b662bc-709f-460a-a00a-0db58cb6fefa-1683510846385a29ac-1",
         "template--17670463258944__94b662bc-709f-460a-a00a-0db58cb6fefa-1683510846385a29ac-2"
+      ],
+      "custom_css": [
+        "h2.rich-text__heading.rte.h1 {font-weight: bold;}",
+        ".content-container--full-width:after {background: #e6fafb;}",
+        ".rich-text__text.rte {font-size: 32px;}",
+        ".rich-text__blocks {max-width: 100%;}",
+        "a.button.button--primary {font-size: 32px; color: #50dfdb; background: transparent; font-weight: bold;}",
+        ".button:after {box-shadow: 1 0 0 calc(var(--buttons-border-width) + var(--border-offset)) rgba(var(--color-button-text), var(--border-opacity)), 0 0 0 var(--buttons-border-width) rgba(var(--color-button), var(--alpha-button-background));}"
       ],
       "settings": {
         "desktop_content_position": "center",
