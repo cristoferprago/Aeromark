@@ -169,7 +169,8 @@
         "template--17670462964032__0f02d806-a0d1-41f6-ab96-dcbdc219f09c-1683528756cc7678c9-1"
       ],
       "custom_css": [
-        "p {text-align: justify; \/* For Edge *\/ text-align-last: center;}"
+        "p {text-align: justify; \/* For Edge *\/ text-align-last: center;}",
+        "h2.rich-text__heading.rte.h1 {font-weight: bold;}"
       ],
       "settings": {
         "desktop_content_position": "center",
