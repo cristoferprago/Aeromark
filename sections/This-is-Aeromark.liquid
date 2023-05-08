@@ -17,8 +17,9 @@
     }
   }
 
-  h2::nth-letter(2) {
-    background: black;
+  h2 span:first-child {
+    display: inline-block;
+    transform: rotate(180deg);
   }
   style="transform: rotate(180deg);"
 {%- endstyle -%}
@@ -31,7 +32,7 @@
           {%- case block.type -%}
             {%- when 'heading' -%}
               <h2 style="" class="rich-text__heading rte {{ block.settings.heading_size }}" {{ block.shopify_attributes }}>
-                THIS IS VEROMARK
+                THIS IS <span>V</span>EROMARK
               </h2>
             {%- when 'caption' -%}
               <p class="rich-text__caption {{ block.settings.text_style }} {{ block.settings.text_style }}--{{ block.settings.text_size }}" {{ block.shopify_attributes }}>
