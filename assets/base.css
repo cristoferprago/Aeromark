@@ -3137,7 +3137,7 @@ h2.rich-text__heading.rte.h1 {
 
 
 section#shopify-section-template--17670463258944__94b662bc-709f-460a-a00a-0db58cb6fefa h2 span:first-child,
-shopify-section-template--17670462964032__0396d12f-3613-43b3-868a-028e824d989c h2 span:first-child{
+div#shopify-section-template--17670462964032__0396d12f-3613-43b3-868a-028e824d989c h2 span:first-child{
     display: inline-block;
     transform: rotate(180deg);
   }
