@@ -17,8 +17,13 @@
     }
   }
 
-  
-  style="transform: rotate(180deg);"
+  @media only screen and (max-width: 600px) {
+  .rich-text__text rte, .rich-text__buttons a {
+    font-size: 24px;
+  }
+}
+
+
 {%- endstyle -%}
 
 <div class="isolate{% unless section.settings.full_width %} page-width{% endunless %}">
