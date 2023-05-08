@@ -3134,3 +3134,9 @@ h2.rich-text__heading.rte.h1 {
 @media only screen and (max-width: 600px){
   
 }
+
+
+section#shopify-section-template--17670463258944__94b662bc-709f-460a-a00a-0db58cb6fefa h2 span:first-child {
+    display: inline-block;
+    transform: rotate(180deg);
+  }
