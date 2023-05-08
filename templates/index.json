@@ -104,6 +104,48 @@
         "padding_bottom": 52
       }
     },
+    "94b662bc-709f-460a-a00a-0db58cb6fefa": {
+      "type": "This-is-Aeromark",
+      "blocks": {
+        "template--17670463258944__94b662bc-709f-460a-a00a-0db58cb6fefa-1683510846385a29ac-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><a>Talk about your brand<\/a><\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--17670463258944__94b662bc-709f-460a-a00a-0db58cb6fefa-1683510846385a29ac-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "template--17670463258944__94b662bc-709f-460a-a00a-0db58cb6fefa-1683510846385a29ac-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17670463258944__94b662bc-709f-460a-a00a-0db58cb6fefa-1683510846385a29ac-0",
+        "template--17670463258944__94b662bc-709f-460a-a00a-0db58cb6fefa-1683510846385a29ac-1",
+        "template--17670463258944__94b662bc-709f-460a-a00a-0db58cb6fefa-1683510846385a29ac-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "ee3ec41b-0009-4622-9c0d-b045261d4fd4": {
       "type": "custom-liquid",
       "disabled": true,
@@ -524,6 +566,7 @@
   "order": [
     "6ca1ad89-8d59-492a-a59f-581df8367a19",
     "d079a440-c0ae-4e71-8457-f53b3208222f",
+    "94b662bc-709f-460a-a00a-0db58cb6fefa",
     "ee3ec41b-0009-4622-9c0d-b045261d4fd4",
     "277d89ab-fd04-4bb5-81ce-31384ca1b2b2",
     "5459dbc6-6281-4039-ae2d-7ad24fe9c3b1",
