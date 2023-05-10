@@ -281,7 +281,7 @@
       ],
       "custom_css": [
         ".content-container--full-width:after {background: #e6fafb;}",
-        "h3 {border: 2px solid darkgray; border-radius: 10px; padding: 10px;}"
+        "h3 {border: 2px solid darkgray; border-radius: 10px; padding: 10px 30px;}"
       ],
       "settings": {
         "desktop_content_position": "center",
