@@ -3131,7 +3131,10 @@ h2.rich-text__heading.rte.h1 {
 }
 
 
-@media only screen and (max-width: 600px){
+@media only screen and (max-width: 750px){
+  section#shopify-section-template--17670463258944__903e0f78-5066-49d4-9afc-2360e2eaf949 {
+    display: block;
+  }
   
 }
 
