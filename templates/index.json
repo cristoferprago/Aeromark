@@ -262,18 +262,21 @@
       "blocks": {
         "template--17670463258944__92145de4-e077-4891-b056-e0282a2a3d23-16836857144383c9d5-1": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<h2><em><strong>\"Of the Five Senses, Smell is the one with the Best Memory\"<\/strong><\/em><em><br\/><\/em><\/h2>"
           }
         },
         "c916d672-17aa-46c6-80c1-d9873048a42c": {
           "type": "text1",
+          "disabled": true,
           "settings": {
             "text": "<p> <\/p>"
           }
         },
         "2b85acbe-0bd0-45ef-a553-5f200207384f": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<h3><strong>Rebecca McClanahan<\/strong><\/h3>"
           }
