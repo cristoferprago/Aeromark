@@ -317,8 +317,7 @@
         "9535ea3d-b413-464b-b7a3-c0b7d4636a45"
       ],
       "custom_css": [
-        ".content-container--full-width:after {background: #e6fafb;}",
-        "h3 {border: 2px solid darkgray; border-radius: 10px; padding: 10px 30px;}"
+        ".content-container--full-width:after {background: #e6fafb;}"
       ],
       "settings": {
         "desktop_content_position": "center",
