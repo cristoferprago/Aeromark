@@ -26,7 +26,6 @@
   fieldset > legend { 
     transform: rotate(180deg);
 
-
   }
 
   fieldset > h3 {
@@ -53,10 +52,10 @@
     <div class="rich-text__wrapper rich-text__wrapper--{{ section.settings.desktop_content_position }}{% if section.settings.full_width %} page-width{% endif %}">
       <div class="rich-text__blocks {{ section.settings.content_alignment }}">
         <fieldset>
-          <legend><h5>Rebecca McClanahan</h5></legend>
+          <legend style="margin: auto;"><h5>Rebecca McClanahan</h5></legend>
           <h3 style="font-weight: bolder; margin: 15px;"><i>"Of the Five Senses, Smell is the one with the Best Memory"</i></h3>
         </fieldset>
-        <h5 style="margin-top: 0px;">Author</h5>
+        <h5 style="margin-top: auto;">Author</h5>
         {%- for block in section.blocks -%}
           {%- case block.type -%}
             {%- when 'heading' -%}
