@@ -16,6 +16,14 @@
       padding-bottom: {{ section.settings.padding_bottom }}px;
     }
   }
+
+  .underline{
+ 
+ background-color: black; 
+ width: 40%;
+ height: 3px;
+ 
+}
 {%- endstyle -%}
 
 <div class="isolate{% unless section.settings.full_width %} page-width{% endunless %}">
@@ -38,9 +46,7 @@
               </div>
 
             {%- when 'text1' -%}
-              <div class="rich-text__text rte" {{ block.shopify_attributes }}>
-                {{ block.settings.text }}
-              </div>
+              <div class="underline page-width"></div>
         
             {%- when 'button' -%}
               <div class="rich-text__buttons{% if block.settings.button_label != blank and block.settings.button_label_2 != blank %} rich-text__buttons--multiple{% endif %}" {{ block.shopify_attributes }}>
