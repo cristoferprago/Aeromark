@@ -46,7 +46,9 @@
               </div>
 
             {%- when 'text1' -%}
-              <div class="underline page-width"></div>
+              <div class="underline page-width">
+                {{ block.settings.text }}
+              </div>
         
             {%- when 'button' -%}
               <div class="rich-text__buttons{% if block.settings.button_label != blank and block.settings.button_label_2 != blank %} rich-text__buttons--multiple{% endif %}" {{ block.shopify_attributes }}>
