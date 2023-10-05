@@ -328,6 +328,7 @@
         "template--17670462964032__7ae8b506-24a1-45d0-afaf-1dbe6a32adcc-1682406771ada91cd8-0",
         "template--17670462964032__7ae8b506-24a1-45d0-afaf-1dbe6a32adcc-1682406771ada91cd8-1"
       ],
+      "disabled": true,
       "custom_css": [
         "h2.rich-text__heading.rte.h1 {font-weight: bold;}",
         "p {text-align: justify;}",
