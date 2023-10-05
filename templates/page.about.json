@@ -136,7 +136,8 @@
         "28e0f787-44a9-4ca2-a07a-1834f09ea271"
       ],
       "custom_css": [
-        ".content-container--full-width:after {background: #e6fafb;}"
+        ".content-container--full-width:after {background: #e6fafb;}",
+        ".rich-text__blocks {max-width: 80rem;}"
       ],
       "settings": {
         "desktop_content_position": "center",
