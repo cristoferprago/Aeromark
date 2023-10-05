@@ -183,7 +183,6 @@
     },
     "47f64ff3-08c0-402e-85d5-451d7113382c": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "template--17670462964032__47f64ff3-08c0-402e-85d5-451d7113382c-16824065378a056cc5-0": {
           "type": "heading",
@@ -203,6 +202,7 @@
         "template--17670462964032__47f64ff3-08c0-402e-85d5-451d7113382c-16824065378a056cc5-0",
         "template--17670462964032__47f64ff3-08c0-402e-85d5-451d7113382c-16824065378a056cc5-1"
       ],
+      "disabled": true,
       "custom_css": [
         "p {text-align: justify; \/* For Edge *\/ text-align-last: center;}"
       ],
@@ -231,7 +231,6 @@
     },
     "fe4e2bf4-a660-4c1f-ba39-0d32bbc23bcb": {
       "type": "Why-choose-us",
-      "disabled": true,
       "blocks": {
         "template--17670462964032__fe4e2bf4-a660-4c1f-ba39-0d32bbc23bcb-1682406776b3c5e1a8-0": {
           "type": "heading",
@@ -264,6 +263,7 @@
         "template--17670462964032__fe4e2bf4-a660-4c1f-ba39-0d32bbc23bcb-1682406776b3c5e1a8-1",
         "template--17670462964032__fe4e2bf4-a660-4c1f-ba39-0d32bbc23bcb-1682406776b3c5e1a8-2"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -286,7 +286,7 @@
         "template--17670462964032__a69dde1e-cbae-4416-842b-7727ee2a41be-1682408246ee4033cd-1": {
           "type": "text",
           "settings": {
-            "text": "<p>The development and creation of your scent identity is a very detailed & personalized process. During the customization process, all aspects of your business are taken into consideration: their history, customers, goals & the desired emotional response.<\/p><p><\/p><p>These are all interpreted & translated into a scent that represents your brand.<\/p>"
+            "text": "<p>Creating your scent identity requires a very detailed and personalized process. During the customization, all aspects of your business are being taken into consideration - its history, customers, goals, and the desired emotional response.<br\/><br\/>These are all interpreted and translated into a scent that represents your brand - creating a lasting impression.<\/p>"
           }
         }
       },
